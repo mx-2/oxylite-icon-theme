@@ -121,3 +121,9 @@
       - file: view-calendar-list.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/calendar-year.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-calendar-month.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
