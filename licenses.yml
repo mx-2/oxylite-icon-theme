@@ -155,3 +155,12 @@
       - file: color-picker.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/contact-new.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: view-pim-contacts.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
