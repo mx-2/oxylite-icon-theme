@@ -1,0 +1,81 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient10897">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="filter9643" height="1.048828" width="1.0472" x="-.0236" y="-.024414">
+      <feGaussianBlur stdDeviation="1.18"/>
+    </filter>
+    <radialGradient id="radialGradient10781" cx="48" cy="-.2148" gradientTransform="matrix(2.6401368 -.0001085 .00009066 2.2059512 1.277981 19.420174)" gradientUnits="userSpaceOnUse" r="55.147999">
+      <stop offset="0" stop-color="#72d13d"/>
+      <stop offset=".3553" stop-color="#35ac1c"/>
+      <stop offset=".6194" stop-color="#0f9508"/>
+      <stop offset=".7574" stop-color="#008c00"/>
+      <stop offset="1" stop-color="#007a00"/>
+    </radialGradient>
+    <radialGradient id="radialGradient10784" cx="48.125" cy="8.625" gradientTransform="matrix(2.5 0 0 2 8.000011 15.593114)" gradientUnits="userSpaceOnUse" r="49.875">
+      <stop offset="0" stop-color="#d6ffc0"/>
+      <stop offset=".0735" stop-color="#ccfab7"/>
+      <stop offset=".61132425" stop-color="#4cb544"/>
+      <stop offset=".7574" stop-color="#008c00"/>
+    </radialGradient>
+    <clipPath id="clipPath10906">
+      <rect height="89.032265" width="127.74194" x=".129032" y="40.838711"/>
+    </clipPath>
+    <clipPath id="clipPath10917">
+      <rect height="54.19355" width="185.80646" x="-28.903227" y="-13.354839"/>
+    </clipPath>
+    <linearGradient id="linearGradient11290" gradientUnits="userSpaceOnUse" x1="118.04734810738" x2="111.30363914957" y1="118.52887531522" y2="111.31661248112">
+      <stop offset="0" stop-color="#a2a2a2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient11297" gradientUnits="userSpaceOnUse" x1="55.873226" x2="64.096496" y1="61.561832" y2="354.496716">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#eee"/>
+    </linearGradient>
+    <filter id="filter11438" height="1.305863" width="1.298229" x="-.149115" y="-.152931">
+      <feGaussianBlur stdDeviation="1.1413633"/>
+    </filter>
+    <linearGradient id="linearGradient10873" gradientTransform="scale(1 1.1648177)" gradientUnits="userSpaceOnUse" spreadMethod="reflect" x1="24" x2="24" y1="6.121857" y2="-4.005442">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#555"/>
+    </linearGradient>
+    <radialGradient id="radialGradient10885" cx="24" cy="17.363621" gradientTransform="matrix(1.7134983 0 0 .6139271 -17.123959 5.555533)" gradientUnits="userSpaceOnUse" r="10.839936">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#060"/>
+    </radialGradient>
+    <linearGradient id="linearGradient10903" gradientUnits="userSpaceOnUse" x1="25.559429" x2="25.559429" xlink:href="#linearGradient10897" y1="-.202853" y2="4.002753"/>
+    <linearGradient id="linearGradient10915" gradientTransform="matrix(1 0 0 1.2895928 -.202853 -18.34379)" gradientUnits="userSpaceOnUse" x1="25.559429" x2="25.559429" xlink:href="#linearGradient10897" y1="-.202853" y2="4.002753"/>
+  </defs>
+  <g transform="matrix(2 0 0 2 .000008 -.656884)">
+    <rect clip-path="url(#clipPath10917)" fill="#003d00" filter="url(#filter9643)" height="116" transform="matrix(1.0333333 0 0 1.0333333 -2.133333 -2.2)" width="120" x="4" y="8"/>
+    <rect clip-path="url(#clipPath10917)" fill="#003d00" filter="url(#filter9643)" height="116" transform="matrix(1.0333333 0 0 1.0333333 -2.133333 -2.2)" width="120" x="4" y="8"/>
+  </g>
+  <path clip-path="url(#clipPath10906)" d="m4 8h120v94.63924c-6.2115 7.72333-12.67862 15.19104-20.44373 21.36076h-99.55627z" filter="url(#filter9643)" opacity=".5" transform="matrix(2.0666666 0 0 2.0666666 -4.266658 -5.056884)"/>
+  <path d="m8.0000081 15.343116h239.9999919v192.126784l-39.0618 39.87322h-200.9381919z" fill="#fff"/>
+  <path d="m12.057061 19.400168h231.885919v190.098272l-34.19338 33.78766h-197.692539z" fill="url(#linearGradient11297)"/>
+  <rect fill="url(#radialGradient10784)" height="63.75" stroke-width="2" width="240" x="8.000008" y="15.593117"/>
+  <rect fill="url(#radialGradient10781)" height="60" stroke-width="2" width="236" x="10.000008" y="19.343117"/>
+  <g transform="matrix(2 0 0 2 .000008 -.656884)">
+    <path d="m104.81141 122.58003s6.05884-5.44599 9.41773-8.80487c3.35889-3.35889 8.80489-8.80917 8.80489-8.80917s-6.77442-1.09996-17.29407.92856c-1.62283 9.50538-.92855 16.68548-.92855 16.68548z" fill="#060606" filter="url(#filter11438)" opacity=".485876"/>
+    <path d="m104.14336 123.98574s7.27596-6.05455 10.63485-9.41343c3.35889-3.35889 9.41344-10.63485 9.41344-10.63485s-9.81718 3.97135-16.07693 3.97135c0 6.25974-3.97136 16.07693-3.97136 16.07693z" fill="url(#linearGradient11290)"/>
+  </g>
+  <g transform="matrix(2 0 0 2 .000008 -.656884)">
+    <g id="g10917">
+      <rect fill="url(#radialGradient10885)" height="8.494453" rx="3.327495" ry="3.042789" width="23.708399" x="12.145801" y="10.142631"/>
+      <rect fill="url(#linearGradient10873)" height="18.637083" width="16" x="16"/>
+      <rect fill="url(#linearGradient10903)" height="4.202853" opacity=".451977" width="15.974644" x="16.025356" y="-.202853"/>
+      <rect fill="url(#linearGradient10915)" height="5.419969" opacity=".638418" transform="scale(1 -1)" width="15.974644" x="15.822505" y="-18.605389"/>
+    </g>
+    <use transform="translate(79.923932)" xlink:href="#g10917"/>
+  </g>
+  <rect fill="#bbb" height="176" transform="rotate(90)" width="7.999997" x="109.21377" y="-224.00005"/>
+  <rect fill="#bbb" height="7.999997" transform="rotate(-90)" width="8.000001" x="-117.21377" y="32.000008"/>
+  <rect fill="#bbb" height="176" transform="rotate(90)" width="7.999997" x="133.21376" y="-224.00005"/>
+  <rect fill="#bbb" height="7.999997" transform="rotate(-90)" width="8.000001" x="-141.21376" y="32.000008"/>
+  <rect fill="#bbb" height="176" transform="rotate(90)" width="7.999997" x="157.21376" y="-224.00005"/>
+  <rect fill="#bbb" height="7.999997" transform="rotate(-90)" width="8.000001" x="-165.21378" y="32.000008"/>
+  <rect fill="#bbb" height="176" transform="rotate(90)" width="7.999997" x="181.21378" y="-224.00005"/>
+  <rect fill="#bbb" height="7.999997" transform="rotate(-90)" width="8.000001" x="-189.21378" y="32.000008"/>
+</svg>
