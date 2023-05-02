@@ -191,3 +191,9 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/dialog-ok.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: dialog-ok.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
