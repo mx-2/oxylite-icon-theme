@@ -1,0 +1,47 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clipPath5163">
+      <circle cx="343.99899" cy="92" r="36"/>
+    </clipPath>
+    <filter id="filter5943" height="1.2248" width="1.2248" x="-.1124" y="-.1124">
+      <feGaussianBlur stdDeviation="1.04"/>
+    </filter>
+    <filter id="filter7317" height="1.285809" width="1.285809" x="-.142904" y="-.142904">
+      <feGaussianBlur stdDeviation="2.8805897"/>
+    </filter>
+    <linearGradient id="linearGradient3003" gradientTransform="matrix(0 2.6920642 -2.6920642 0 -226.38033 237.08387)" gradientUnits="userSpaceOnUse" x1="-80.00296" x2="-45.096584" y1="-131.93112" y2="-131.93112">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3008" gradientUnits="userSpaceOnUse" x1="137.815925" x2="110.537701" y1="47.012537" y2="20.633893">
+      <stop offset="0" stop-color="#4d0000" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#4d0000"/>
+      <stop offset="1" stop-color="#4d0000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3010" gradientUnits="userSpaceOnUse" x1="328.12448" x2="336.98077" y1="120.81158" y2="87.759453">
+      <stop offset="0" stop-color="#f00"/>
+      <stop offset="1" stop-color="#650000"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3012" cx="345.80753" cy="85.250488" gradientTransform="matrix(.6662862 -.6560105 .9893764 1.0048737 31.05592 226.43791)" gradientUnits="userSpaceOnUse" r="36">
+      <stop offset="0" stop-color="#ffbe00"/>
+      <stop offset="1" stop-color="#f5d600" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linearGradient3014" gradientTransform="matrix(0 3.2382265 -3.2382265 0 -1336.1588 3.066657)" gradientUnits="userSpaceOnUse" x1="-86.120354" x2="-56.357521" y1="-381.09921" y2="-373.1243">
+      <stop offset="0" stop-color="#8c0000"/>
+      <stop offset="1" stop-color="#bf0000"/>
+    </linearGradient>
+    <filter id="filter3138" height="1.136321" width="1.136321" x="-.06816" y="-.06816">
+      <feGaussianBlur stdDeviation="5.6513927"/>
+    </filter>
+    <filter id="filter3162" height="1.064529" width="1.064529" x="-.032265" y="-.032265">
+      <feGaussianBlur stdDeviation=".96794009"/>
+    </filter>
+  </defs>
+  <path d="m115.5 20a100 100 0 1 1 -200 0 100 100 0 1 1 200 0z" style="opacity:.502717;stroke:#000;stroke-width:.1375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.15;filter:url(#filter3138)" transform="matrix(1.1324096 0 0 1.1324096 110.44765 107.70673)"/>
+  <circle cx="-92.687935" cy="-152.37761" fill="url(#linearGradient3014)" r="116.57616" stroke-width="3.23823" transform="matrix(-.96592583 .25881905 -.25881905 -.96592583 0 0)"/>
+  <circle cx="343.99899" cy="92" fill="url(#radialGradient3012)" filter="url(#filter3162)" r="36" transform="matrix(-2.3459152 .6285858 -.6285858 -2.3459152 993.79031 122.78726)"/>
+  <circle cx="343.99899" cy="92" r="36" style="opacity:.8;fill:none;stroke-width:6.75138;clip-path:url(#clipPath5163);stroke:url(#linearGradient3010);filter:url(#filter7317)" transform="matrix(-3.1278866 -.8381148 -.8381148 3.1278866 1282.0643 123.74097)"/>
+  <path d="m128.96803 21.710921c-41.340962 0-75.885099 29.192296-84.211138 68.058758 16.596047 15.470981 48.086186 25.911111 84.211138 25.911111 36.12499 0 67.61509-10.44013 84.21112-25.911111-8.326-38.866462-42.87017-68.058758-84.21112-68.058758z" fill="url(#linearGradient3003)" opacity=".8" stroke-width="2"/>
+  <path d="m118.00003 15.999997v16h-16v8h16v16h8v-16h16v-8h-16v-16z" style="fill:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke:url(#linearGradient3008);filter:url(#filter5943)" transform="matrix(2.5765208 2.5765208 -2.5765208 2.5765208 -92.61294 -283.89439)"/>
+  <path d="m170.19227 61.359467-41.22434 41.224333-41.224329-41.224333-20.612166 20.612166 41.224335 41.224337-41.224335 41.22433 20.612166 20.61217 41.224329-41.22434 41.22434 41.22434 20.61216-20.61217-41.22433-41.22433 41.22433-41.224337z" fill="#fff" fill-rule="evenodd"/>
+</svg>
