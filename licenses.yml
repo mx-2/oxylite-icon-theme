@@ -316,3 +316,9 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/edit-cut.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-cut.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
