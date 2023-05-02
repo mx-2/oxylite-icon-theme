@@ -1,0 +1,30 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="filter2872" color-interpolation-filters="sRGB" height="1.752262" width="1.177861" x="-.08893" y="-.376131">
+      <feGaussianBlur stdDeviation="1.195"/>
+    </filter>
+    <radialGradient id="radialGradient970" cx="38.674385" cy="51.025036" gradientTransform="matrix(5.7317703 .11874318 -.08385563 4.0477399 -110.89489 -8.027776)" gradientUnits="userSpaceOnUse" r="11.125">
+      <stop offset="0" stop-color="#f52e2e"/>
+      <stop offset="1" stop-color="#cc000a"/>
+    </radialGradient>
+    <linearGradient id="linearGradient972" gradientUnits="userSpaceOnUse" x1="194.263454" x2="65.263462" y1="225.313214" y2="194.813214">
+      <stop offset="0" stop-color="#ff563b"/>
+      <stop offset="1" stop-color="#ff4035"/>
+    </linearGradient>
+    <filter id="filter4144" color-interpolation-filters="sRGB" height="1.184624" width="1.186961" x="-.09348" y="-.092312">
+      <feGaussianBlur stdDeviation="1.0417126"/>
+    </filter>
+    <radialGradient id="radialGradient4162" cx="63.050201" cy="126.4723" gradientTransform="matrix(2.5443625 -.00779776 .00820068 2.6758395 -18.658736 -216.65681)" gradientUnits="userSpaceOnUse" r="39.056622">
+      <stop offset="0" stop-color="#00c40e"/>
+      <stop offset="1" stop-color="#008521"/>
+    </radialGradient>
+    <linearGradient id="linearGradient1047" gradientUnits="userSpaceOnUse" x1="214.48646332543" x2="10.25128874318" y1="203.32758669139" y2="22.77671882419">
+      <stop offset="0" stop-color="#58ff5a"/>
+      <stop offset="1" stop-color="#00b11b"/>
+    </linearGradient>
+  </defs>
+  <path d="m27.144133 95.914191v-7.625h32.25v7.625z" filter="url(#filter2872)" transform="matrix(4 0 0 4 -35.31307 -150.34355)"/>
+  <path d="m65.263462 225.31321v-30.5h128.999998v30.5z" fill="url(#radialGradient970)" stroke="url(#linearGradient972)" stroke-width="4"/>
+  <path d="m52.194977 124.30572v10.625h-5.885417v-10.625h-10.390625v-5.83333h10.390625v-10.625h5.885417v10.625h10.468749v5.83333z" fill="#00010b" filter="url(#filter4144)" transform="matrix(4.9013456 0 0 4.9013456 -109.53268 -504.33904)"/>
+  <path d="m138.86068 94.333424v52.076796h-28.84646v-52.076796h-50.928048v-28.591164h50.928048v-52.076796h28.84646v52.076796h51.31096v28.591164z" fill="url(#radialGradient4162)" stroke="url(#linearGradient1047)" stroke-width="4.90136"/>
+</svg>
