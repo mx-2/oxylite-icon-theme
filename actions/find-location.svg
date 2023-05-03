@@ -1,0 +1,59 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient1002">
+      <stop offset="0" stop-color="#cceafd"/>
+      <stop offset="1" stop-color="#80cbff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient928">
+      <stop offset="0" stop-color="#23a8f5"/>
+      <stop offset="1" stop-color="#0069a7"/>
+    </linearGradient>
+    <linearGradient id="linearGradient920">
+      <stop offset="0" stop-color="#afe0fb"/>
+      <stop offset="1" stop-color="#12a6f2"/>
+    </linearGradient>
+    <linearGradient id="linearGradient922" gradientUnits="userSpaceOnUse" x1="80" x2="128" xlink:href="#linearGradient920" y1="171.468153" y2="154.666089"/>
+    <linearGradient id="linearGradient930" gradientUnits="userSpaceOnUse" x1="128" x2="160" xlink:href="#linearGradient928" y1="168.865369" y2="184.865369"/>
+    <linearGradient id="linearGradient938" gradientUnits="userSpaceOnUse" x1="128" x2="64" y1="120.865369" y2="88.865369">
+      <stop offset="0" stop-color="#4bb8f7"/>
+      <stop offset="1" stop-color="#07a3ff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient946" gradientUnits="userSpaceOnUse" x1="192" x2="128" xlink:href="#linearGradient920" y1="88.865369" y2="120.865369"/>
+    <linearGradient id="linearGradient954" gradientUnits="userSpaceOnUse" x1="112" x2="128" y1="36.865369" y2="46.465367">
+      <stop offset="0" stop-color="#b5e5ff"/>
+      <stop offset="1" stop-color="#64cbfe"/>
+    </linearGradient>
+    <linearGradient id="linearGradient968" gradientUnits="userSpaceOnUse" x1="115.199996" x2="128" xlink:href="#linearGradient920" y1="65.665369" y2="72.065365"/>
+    <linearGradient id="linearGradient976" gradientUnits="userSpaceOnUse" x1="128" x2="140.800004" y1="65.665369" y2="72.065365">
+      <stop offset="0" stop-color="#0b98ea"/>
+      <stop offset="1" stop-color="#004a76"/>
+    </linearGradient>
+    <linearGradient id="linearGradient984" gradientUnits="userSpaceOnUse" x1="128" x2="144" xlink:href="#linearGradient928" y1="40.065369" y2="46.465367"/>
+    <linearGradient id="linearGradient1004" gradientUnits="userSpaceOnUse" x1="76.800004" x2="129" xlink:href="#linearGradient1002" y1="87.265371" y2="112.827511"/>
+    <linearGradient id="linearGradient1012" gradientUnits="userSpaceOnUse" x1="128" x2="182.399994" xlink:href="#linearGradient1002" y1="112.865369" y2="87.265371"/>
+    <linearGradient id="linearGradient1020" gradientUnits="userSpaceOnUse" x1="128" x2="176" xlink:href="#linearGradient1002" y1="151.265363" y2="176.865369"/>
+    <linearGradient id="linearGradient1028" gradientUnits="userSpaceOnUse" x1="80" x2="129" xlink:href="#linearGradient1002" y1="116.065365" y2="176.621229"/>
+    <linearGradient id="linearGradient1036" gradientUnits="userSpaceOnUse" x1="128" x2="144" xlink:href="#linearGradient1002" y1="31.265369" y2="37.665369"/>
+    <linearGradient id="linearGradient1044" gradientUnits="userSpaceOnUse" x1="128" x2="112" xlink:href="#linearGradient1002" y1="37.665369" y2="28.065369"/>
+    <linearGradient id="linearGradient1052" gradientUnits="userSpaceOnUse" x1="115.199996" x2="128" xlink:href="#linearGradient1002" y1="60.065369" y2="66.465367"/>
+    <linearGradient id="linearGradient1060" gradientUnits="userSpaceOnUse" x1="128" x2="140.800004" xlink:href="#linearGradient1002" y1="52.065369" y2="63.265371"/>
+  </defs>
+  <path d="m105.6 42.465369 22.4 9.6v-44.8000005z" fill="url(#linearGradient954)" stroke="url(#linearGradient1044)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m128 7.2653685v44.8000005l22.4-9.6z" fill="url(#linearGradient984)" stroke="url(#linearGradient1036)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m105.6 42.465369 22.4 9.6v32.8z" fill="url(#linearGradient968)" stroke="url(#linearGradient1052)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m128 52.065369v32.8l22.4-42.4z" fill="url(#linearGradient976)" stroke="url(#linearGradient1060)" stroke-linejoin="bevel" stroke-width="2"/>
+  <g transform="matrix(2 0 0 2 0 36.865369)">
+    <path d="m16 64c0-13.254834 21.490332-24 48-24s48 10.745166 48 24" fill="none" stroke="#ff2626" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5"/>
+    <path d="m88 52 28-14" fill="none" stroke="#ff2626" stroke-width="5"/>
+    <path d="m40 52-28-14" fill="none" stroke="#ff2626" stroke-width="5"/>
+  </g>
+  <path d="m128 248.86537 64-144-64 27.2z" fill="url(#linearGradient930)" stroke="url(#linearGradient1020)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m64 104.86537 64-11.200002v38.400002z" fill="url(#linearGradient938)" stroke="url(#linearGradient1004)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m128 132.06537 64-27.2-64-11.200002z" fill="url(#linearGradient946)" stroke="url(#linearGradient1012)" stroke-linejoin="bevel" stroke-width="2"/>
+  <path d="m128 248.86537v-116.8l-64-27.2z" fill="url(#linearGradient922)" stroke="url(#linearGradient1028)" stroke-linejoin="bevel" stroke-width="2"/>
+  <g transform="matrix(2 0 0 2 0 36.865369)">
+    <path d="m112 64c0 13.254834-21.490332 24-48 24s-48-10.745166-48-24" fill="none" stroke="#ff2626" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5"/>
+    <path d="m8 92 32-16" fill="none" stroke="#ff2626" stroke-width="5"/>
+    <path d="m88 76 32 16" fill="none" stroke="#ff2626" stroke-width="5"/>
+  </g>
+</svg>
