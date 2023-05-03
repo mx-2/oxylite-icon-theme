@@ -1,0 +1,18 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3233">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3240" gradientTransform="matrix(10.012849 0 0 10.001015 20.763816 19.278372)" gradientUnits="userSpaceOnUse" x1="9.44859" x2="7.677631" xlink:href="#linearGradient3233" y1="2.761672" y2="19.013866"/>
+    <radialGradient id="radialGradient3253-7" cx="8.223019" cy="14.316785" gradientTransform="matrix(11.31213 -3.4676468 6.2754146 20.423242 -69.614572 -69.172285)" gradientUnits="userSpaceOnUse" r="5.32381" spreadMethod="reflect" xlink:href="#linearGradient3233"/>
+    <filter id="filter3757" height="1.196412" width="1.291344" x="-.145672" y="-.098206">
+      <feGaussianBlur stdDeviation=".79012916"/>
+    </filter>
+  </defs>
+  <path d="m5 19c.0000524.523584.4764155.999948 1 1h3.59375l2.5 2.5625c.272702.267764.706204.357015 1.0625.21875l1.25-.46875c.353635-.127466.619754-.46962.65625-.84375l.34375-3.3125 2.40625-3c.296435-.374818.26821-.967546-.0625-1.3125l-11.2451499-10.3075557z" fill-rule="evenodd" filter="url(#filter3757)" opacity=".180996" transform="matrix(10.01285 0 0 10.001014 16.763816 27.274081)"/>
+  <path d="m80.840912 29.279387v160.016243h40.051388l28.10752 28.48261 12.63844-4.7303 3.70028-36.28433 25.88071-32.25155z" fill="#201020" fill-rule="evenodd" stroke="#595959" stroke-linejoin="round" stroke-width="16"/>
+  <path d="m80.840916 29.279387v160.016233h40.051404l28.10752 28.48258 12.63844-4.73026 3.70026-36.28435 25.53405-32.16657z" fill="#c4c4c4" fill-rule="evenodd"/>
+  <path d="m80.840916 29.279387v160.016233h40.051404l28.10752 28.48258 12.63844-4.73026 3.70026-36.28435 25.33201-31.77857z" fill="url(#radialGradient3253-7)" fill-rule="evenodd"/>
+  <path d="m84.734298 184.97728 40.182002-.16838 24.44182 28.55058 7.80692-3.69794 4.37174-34.47573 23.73475-30.4185-100.16143-104.812567z" fill="none" stroke="url(#linearGradient3240)" stroke-width="8"/>
+</svg>
