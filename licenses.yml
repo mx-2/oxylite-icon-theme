@@ -551,3 +551,12 @@
       - file: go-home.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/go-jump-rtl.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: go-bottom.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: edit-redo.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
