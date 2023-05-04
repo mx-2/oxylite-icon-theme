@@ -533,3 +533,12 @@
       - file: go-down.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/go-first.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: go-down.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: list-remove.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
