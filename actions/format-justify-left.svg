@@ -1,0 +1,44 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient881" gradientUnits="userSpaceOnUse" x1="21.650665" x2="18.48621" y1="13.168386" y2="8.030196">
+      <stop offset="0" stop-color="#111"/>
+      <stop offset="1" stop-color="#6f6f6f"/>
+    </linearGradient>
+    <linearGradient id="linearGradient901" gradientUnits="userSpaceOnUse" x1="1.637705" x2="36.714542" y1="10.653102" y2="10.653102">
+      <stop offset="0" stop-color="#ededed"/>
+      <stop offset="1" stop-color="#a0a0a0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient915" gradientUnits="userSpaceOnUse" x1="25.815264" x2="25.899536" y1="11.087337" y2="12.952483">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity=".544161"/>
+    </linearGradient>
+    <filter id="filter1523" color-interpolation-filters="sRGB" height="1.174095" width="1.027893" x="-.013946" y="-.087047">
+      <feGaussianBlur stdDeviation=".14347606"/>
+    </filter>
+  </defs>
+  <g transform="matrix(5 0 0 5 7.331587 -10.936568)">
+    <rect filter="url(#filter1523)" height="3.95581" ry="1.97786" transform="matrix(1.0488265 0 0 1.0488265 -.936303 -.520154)" width="32.317936" x="2.023247" y="9.756607"/>
+    <rect height="2.192394" ry="1.096197" style="opacity:.999961;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;fill:url(#linearGradient901);stroke:url(#linearGradient881)" width="32.076836" x="2.137705" y="10.667336"/>
+    <rect fill="url(#linearGradient915)" height="2.192394" opacity=".999961" ry="1.096197" width="32.076836" x="2.137705" y="10.667336"/>
+  </g>
+  <g transform="matrix(5 0 0 5 7.331587 29.063437)">
+    <rect filter="url(#filter1523)" height="3.95581" ry="1.97786" transform="matrix(1.0488265 0 0 1.0488265 -.936303 -.520154)" width="43.759285" x="2.023247" y="9.756607"/>
+    <rect height="2.192394" ry="1.096197" style="opacity:.999961;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke:url(#linearGradient881);fill:url(#linearGradient901)" width="44.076836" x="2.137705" y="10.667336"/>
+    <rect fill="url(#linearGradient915)" height="2.192394" opacity=".999961" ry="1.096197" width="44.076836" x="2.137705" y="10.667336"/>
+  </g>
+  <g transform="matrix(5 0 0 5 7.331587 69.063437)">
+    <rect filter="url(#filter1523)" height="3.95581" ry="1.97786" transform="matrix(1.0488265 0 0 1.0488265 -.936303 -.520154)" width="34.224831" x="2.023247" y="9.756607"/>
+    <rect height="2.192394" ry="1.096197" style="opacity:.999961;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke:url(#linearGradient881);fill:url(#linearGradient901)" width="34.076836" x="2.137705" y="10.667336"/>
+    <rect fill="url(#linearGradient915)" height="2.192394" opacity=".999961" ry="1.096197" width="34.076836" x="2.137705" y="10.667336"/>
+  </g>
+  <g transform="matrix(5 0 0 5 7.331587 109.06344)">
+    <rect filter="url(#filter1523)" height="3.95581" ry="1.97786" transform="matrix(1.0488265 0 0 1.0488265 -.936303 -.520154)" width="38.038612" x="2.023247" y="9.756607"/>
+    <rect height="2.192394" ry="1.096197" style="opacity:.999961;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke:url(#linearGradient881);fill:url(#linearGradient901)" width="38.076836" x="2.137705" y="10.667336"/>
+    <rect fill="url(#linearGradient915)" height="2.192394" opacity=".999961" ry="1.096197" width="38.076836" x="2.137705" y="10.667336"/>
+  </g>
+  <g transform="matrix(5 0 0 5 7.331587 149.06344)">
+    <rect filter="url(#filter1523)" height="3.95581" ry="1.97786" transform="matrix(1.0488265 0 0 1.0488265 -.936303 -.520154)" width="24.690367" x="2.023247" y="9.756607"/>
+    <rect height="2.192394" ry="1.096197" style="opacity:.999961;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke:url(#linearGradient881);fill:url(#linearGradient901)" width="24.076838" x="2.137705" y="10.667336"/>
+    <rect fill="url(#linearGradient915)" height="2.192394" opacity=".999961" ry="1.096197" width="24.076838" x="2.137705" y="10.667336"/>
+  </g>
+</svg>
