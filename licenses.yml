@@ -644,3 +644,12 @@
       - file: preferences-desktop-wallpaper.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/insert-link.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: insert-link.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
