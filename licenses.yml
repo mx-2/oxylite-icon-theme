@@ -715,3 +715,12 @@
       - file: mail-mark-junk.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- actions/mail-mark-notjunk.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: mail-mark-junk.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: edit-delete.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
