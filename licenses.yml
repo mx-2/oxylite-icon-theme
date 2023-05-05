@@ -697,3 +697,15 @@
       - file: go-down.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/mail-mark-important.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: task-attention.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
