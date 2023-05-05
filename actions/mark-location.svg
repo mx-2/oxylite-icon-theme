@@ -1,0 +1,53 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient1002">
+      <stop offset="0" stop-color="#cceafd"/>
+      <stop offset="1" stop-color="#80cbff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient928">
+      <stop offset="0" stop-color="#23a8f5"/>
+      <stop offset="1" stop-color="#0069a7"/>
+    </linearGradient>
+    <linearGradient id="linearGradient920">
+      <stop offset="0" stop-color="#afe0fb"/>
+      <stop offset="1" stop-color="#12a6f2"/>
+    </linearGradient>
+    <linearGradient id="linearGradient922" gradientUnits="userSpaceOnUse" x1="40" x2="64" xlink:href="#linearGradient920" y1="81.301392" y2="72.90036"/>
+    <linearGradient id="linearGradient930" gradientUnits="userSpaceOnUse" x1="64" x2="80" xlink:href="#linearGradient928" y1="80" y2="88"/>
+    <linearGradient id="linearGradient938" gradientUnits="userSpaceOnUse" x1="64" x2="32" y1="56" y2="40">
+      <stop offset="0" stop-color="#4bb8f7"/>
+      <stop offset="1" stop-color="#07a3ff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient946" gradientUnits="userSpaceOnUse" x1="96" x2="64" xlink:href="#linearGradient920" y1="40" y2="56"/>
+    <linearGradient id="linearGradient954" gradientUnits="userSpaceOnUse" x1="56" x2="64" y1="16" y2="20.799999">
+      <stop offset="0" stop-color="#b5e5ff"/>
+      <stop offset="1" stop-color="#64cbfe"/>
+    </linearGradient>
+    <linearGradient id="linearGradient968" gradientUnits="userSpaceOnUse" x1="57.599998" x2="64" xlink:href="#linearGradient920" y1="30.4" y2="33.599998"/>
+    <linearGradient id="linearGradient976" gradientUnits="userSpaceOnUse" x1="64" x2="70.400002" y1="30.4" y2="33.599998">
+      <stop offset="0" stop-color="#0b98ea"/>
+      <stop offset="1" stop-color="#004a76"/>
+    </linearGradient>
+    <linearGradient id="linearGradient984" gradientUnits="userSpaceOnUse" x1="64" x2="72" xlink:href="#linearGradient928" y1="17.6" y2="20.799999"/>
+    <linearGradient id="linearGradient1004" gradientUnits="userSpaceOnUse" x1="38.400002" x2="64.5" xlink:href="#linearGradient1002" y1="39.200001" y2="51.981071"/>
+    <linearGradient id="linearGradient1012" gradientUnits="userSpaceOnUse" x1="64" x2="91.199997" xlink:href="#linearGradient1002" y1="52" y2="39.200001"/>
+    <linearGradient id="linearGradient1020" gradientUnits="userSpaceOnUse" x1="64" x2="88" xlink:href="#linearGradient1002" y1="71.199997" y2="84"/>
+    <linearGradient id="linearGradient1028" gradientUnits="userSpaceOnUse" x1="40" x2="64.5" xlink:href="#linearGradient1002" y1="53.599998" y2="83.87793"/>
+    <linearGradient id="linearGradient1036" gradientUnits="userSpaceOnUse" x1="64" x2="72" xlink:href="#linearGradient1002" y1="13.2" y2="16.4"/>
+    <linearGradient id="linearGradient1044" gradientUnits="userSpaceOnUse" x1="64" x2="56" xlink:href="#linearGradient1002" y1="16.4" y2="11.6"/>
+    <linearGradient id="linearGradient1052" gradientUnits="userSpaceOnUse" x1="57.599998" x2="64" xlink:href="#linearGradient1002" y1="27.6" y2="30.799999"/>
+    <linearGradient id="linearGradient1060" gradientUnits="userSpaceOnUse" x1="64" x2="70.400002" xlink:href="#linearGradient1002" y1="23.6" y2="29.200001"/>
+  </defs>
+  <g transform="matrix(2 0 0 2 0 4.865369)">
+    <path d="m52.8 18.8 11.2 4.8v-22.4z" fill="url(#linearGradient954)" stroke="url(#linearGradient1044)" stroke-linejoin="bevel"/>
+    <path d="m64 1.2v22.4l11.2-4.8z" fill="url(#linearGradient984)" stroke="url(#linearGradient1036)" stroke-linejoin="bevel"/>
+    <path d="m52.8 18.8 11.2 4.8v16.4z" fill="url(#linearGradient968)" stroke="url(#linearGradient1052)" stroke-linejoin="bevel"/>
+    <path d="m64 23.6v16.4l11.2-21.2z" fill="url(#linearGradient976)" stroke="url(#linearGradient1060)" stroke-linejoin="bevel"/>
+  </g>
+  <g transform="matrix(2 0 0 2 0 8.865369)">
+    <path d="m64 120 32-72-32 13.6z" fill="url(#linearGradient930)" stroke="url(#linearGradient1020)" stroke-linejoin="bevel"/>
+    <path d="m32 48 32-5.6v19.2z" fill="url(#linearGradient938)" stroke="url(#linearGradient1004)" stroke-linejoin="bevel"/>
+    <path d="m64 61.6 32-13.6-32-5.6z" fill="url(#linearGradient946)" stroke="url(#linearGradient1012)" stroke-linejoin="bevel"/>
+    <path d="m64 120v-58.4l-32-13.6z" fill="url(#linearGradient922)" stroke="url(#linearGradient1028)" stroke-linejoin="bevel"/>
+  </g>
+</svg>
