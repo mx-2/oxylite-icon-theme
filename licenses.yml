@@ -831,3 +831,12 @@
         license: LGPL-3.0-or-later
 - actions/mark-location.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- actions/media-eject.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: go-down.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
