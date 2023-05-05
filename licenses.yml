@@ -739,3 +739,12 @@
       - file: mail-unread.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/mail-message-new.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
