@@ -996,3 +996,15 @@
       - file: start-here.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/stock_insert-note.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: knotes.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: view-pim-notes.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
