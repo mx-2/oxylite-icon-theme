@@ -906,3 +906,9 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/object-flip-horizontal.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: object-flip-horizontal.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
