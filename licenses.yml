@@ -1062,3 +1062,12 @@
       - file: tools-check-spelling.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- actions/user-info.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: im-user.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
