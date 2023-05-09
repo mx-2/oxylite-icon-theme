@@ -1029,3 +1029,9 @@
       - file: system-run.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/system-shutdown.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: system-shutdown.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
