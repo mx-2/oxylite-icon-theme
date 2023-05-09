@@ -975,3 +975,12 @@
       - file: document-send.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- actions/sidebar-show-right.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-right-new.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: edit-table-insert-column-right.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
