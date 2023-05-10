@@ -1,0 +1,92 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="filter3834" color-interpolation-filters="sRGB" height="1.064318" width="1.080939" x="-.04047" y="-.032159">
+      <feGaussianBlur stdDeviation="1.50075"/>
+    </filter>
+    <filter id="filter3826" color-interpolation-filters="sRGB" height="1.044321" width="1.055874" x="-.027937" y="-.02216">
+      <feGaussianBlur stdDeviation="1.036"/>
+    </filter>
+    <linearGradient id="linearGradient5883" gradientUnits="userSpaceOnUse" x1="-79.8111" x2="-79.8111" y1="-27.556071" y2="88.844839">
+      <stop offset="0" stop-color="#eeecec"/>
+      <stop offset=".40000001" stop-color="#f4f4f4"/>
+      <stop offset="1" stop-color="#f6f5f5"/>
+    </linearGradient>
+    <radialGradient id="radialGradient5885" cx="64" cy="64.004021" fx="63.793392" fy="47.274845" gradientTransform="matrix(1.6842105 -.08429519 .06886339 1.3758846 -200.0081 -46.219304)" gradientUnits="userSpaceOnUse" r="47.5">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linearGradient1641-6" gradientUnits="userSpaceOnUse" x1="106.81913277002" x2="104.93328031335" y1="18.62048412719" y2="16.73462824185">
+      <stop offset="0" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#616161"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3582" gradientUnits="userSpaceOnUse" x1="-37.25874" x2="-36.84618" y1="-45.091755" y2="-47.381388">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#ddd"/>
+    </linearGradient>
+    <mask id="mask16881" maskUnits="userSpaceOnUse">
+      <rect fill="url(#linearGradient16885)" height="138.45181" stroke="#e4e4e4" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" width="106.87592" x="10.562038" y="-5.225906"/>
+    </mask>
+    <linearGradient id="linearGradient16885" gradientUnits="userSpaceOnUse" x1="128.000002" x2="128.000002" y1="10.597836" y2="119.703031">
+      <stop offset="0"/>
+      <stop offset=".14206049" stop-color="#7f7f7f"/>
+      <stop offset=".23101953" stop-color="#fff"/>
+      <stop offset=".74613184" stop-color="#fff"/>
+      <stop offset=".83580512" stop-color="#7f7f7f"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g mask="url(#mask16881)" transform="matrix(2 0 0 2 .000006 -.000007)">
+    <g transform="matrix(.97998595 0 0 -.97998595 146.62369 100.20454)">
+      <path d="m-128.8111-19.056071v112l88.962504-.500017s.0375-86.3714803.0375-111.499983z" filter="url(#filter3834)" opacity=".262376"/>
+      <path d="m-128.8111-19.556071-.0002 112.2 89.000204-.200017v-111.999983z" fill-opacity=".700535" filter="url(#filter3826)"/>
+      <path d="m-128.8111-19.556071v111.999983h88.999798v-111.999983z" fill="#fff"/>
+      <path d="m-127.3111-18.556071c-.33984 0-.5.234618-.5.5v107.969149c0 .82158.67932 1.499601 1.5 1.499601h84.111135c1.066828.03768 1.383211-.325314 1.388819-1.499601l.00005-107.969149c0-.322718-.163426-.5-.500206-.5z" fill="url(#linearGradient5883)"/>
+      <path d="m-127.3111-18.556071c-.33984 0-.5.234392-.5.499774l-.0002 107.968542c0 .82158.67932 1.50013 1.5 1.500434l84.464415.0313c.646639-.01253 1.061028-.91811 1.035729-1.531734l.00006-107.968266c0-.322718-.163426-.5-.500206-.5z" fill="url(#radialGradient5885)" opacity=".846535"/>
+    </g>
+    <g transform="matrix(.5 0 0 .5 .603243 -1.367964)">
+      <g transform="translate(-3.974096 .525243)">
+        <g transform="matrix(-2.053628 -.37683622 -.37683622 2.053628 254.62307 30.483134)">
+          <path id="path1704-7" d="m98.312285 17.819659-79.854367-14.6530901" fill="none" stroke="#e5e5e5" stroke-width="5.74736"/>
+          <use id="use3655" transform="translate(-2.074616 11.305947)" xlink:href="#path1704-7"/>
+          <use id="use3657" transform="translate(-2.074616 11.305947)" xlink:href="#use3655"/>
+          <use id="use3659" transform="translate(-2.074616 11.305947)" xlink:href="#use3657"/>
+          <use id="use3661" transform="translate(-2.074616 11.305947)" xlink:href="#use3659"/>
+          <use id="use3663" transform="translate(-2.074616 11.305947)" xlink:href="#use3661"/>
+          <use id="use3665" transform="translate(-2.074616 11.305947)" xlink:href="#use3663"/>
+          <use id="use3667" transform="translate(-2.074616 11.305947)" xlink:href="#use3665"/>
+          <use transform="translate(-2.074616 11.305947)" xlink:href="#use3667"/>
+        </g>
+        <g id="g3770" transform="matrix(2 0 0 2 -4.668792 -4.90356)">
+          <circle id="circle1543-9" cx="105.87574" cy="17.677088" fill="url(#linearGradient1641-6)" r="1.333751" stroke="url(#linearGradient3582)" stroke-width=".1"/>
+          <use transform="translate(-75.19075 -.570986)" xlink:href="#circle1543-9"/>
+        </g>
+        <use id="use3772" transform="translate(-0 12)" xlink:href="#g3770"/>
+        <use id="use3774" transform="translate(-0 12)" xlink:href="#use3772"/>
+        <use id="use3776" transform="translate(-0 12)" xlink:href="#use3774"/>
+        <use id="use3778" transform="translate(-0 12)" xlink:href="#use3776"/>
+        <use id="use3780" transform="translate(-0 12)" xlink:href="#use3778"/>
+        <use id="use3782" transform="translate(-0 12)" xlink:href="#use3780"/>
+        <use id="use3784" transform="translate(-0 12)" xlink:href="#use3782"/>
+        <use id="use3786" transform="translate(-0 12)" xlink:href="#use3784"/>
+        <use id="use3788" transform="translate(-0 12)" xlink:href="#use3786"/>
+        <use id="use3790" transform="translate(-0 12)" xlink:href="#use3788"/>
+        <use id="use3792" transform="translate(-0 12)" xlink:href="#use3790"/>
+        <use id="use3794" transform="translate(-0 12)" xlink:href="#use3792"/>
+        <use id="use3796" transform="translate(-0 12)" xlink:href="#use3794"/>
+        <use id="use3798" transform="translate(-0 12)" xlink:href="#use3796"/>
+        <use id="use3800" transform="translate(-0 12)" xlink:href="#use3798"/>
+        <use id="use3802" transform="translate(0 12)" xlink:href="#use3800"/>
+        <use transform="translate(0 12)" xlink:href="#use3802"/>
+      </g>
+      <g mask="none" transform="translate(.104054 1.448612)">
+        <path id="path3690" d="m159.15535 43.95661h23.81478m-35.57146 0h9.06191m-29.53276 0h17.77608m-32.46371 0h12.08634m-33.697112 0h18.917612m-27.538294 0h5.927535m-12.645636 0h4.02494m-17.889239 0h11.171138m4.925418-5.33465h-16.096556m24.271114 0h-5.479788m20.149388 0h-11.976454m22.499724 0h-7.83012m19.5868 0h-9.06189m19.80987 0h-8.05319m26.52797 0h-15.78164m30.89737 0h-12.4226m18.69294 0h-3.57721m22.48206 0h-16.21008m-22.73263-5.33464h15.69798m-31.25983 0h12.86871m-25.5242 0h9.96234m-26.98066 0h14.32518m-41.973366 0h24.955056m-43.862844 0h16.214641m-4.826998-5.334641h-11.387643m27.172564 0h-13.091774m36.270524 0h-20.485618m26.869128 0h-3.69035m20.15101 0h-13.76752m21.71902 0h-5.25835m24.96653 0h-17.01503m37.08568 0h-17.3775m11.20395-5.334643h12.89165m-28.00738 0h12.42258m-28.77171 0h13.65598m-16.34913 0h-15.22235m-11.98137 0h9.2866m-26.304915 0h14.325175m-20.149391 0h3.131083m-25.752189 0h19.927974m-27.854871 0h5.233765" fill="none" opacity=".7" stroke="#808080" stroke-width="2"/>
+        <use transform="translate(0 32)" xlink:href="#path3690"/>
+        <use transform="translate(0 64)" xlink:href="#path3690"/>
+        <use transform="translate(0 96)" xlink:href="#path3690"/>
+        <use transform="translate(0 128)" xlink:href="#path3690"/>
+        <use transform="translate(0 160)" xlink:href="#path3690"/>
+        <use transform="translate(0 192)" xlink:href="#path3690"/>
+      </g>
+    </g>
+  </g>
+</svg>
