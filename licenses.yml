@@ -1113,3 +1113,9 @@
       - file: org.gnome.Devhelp.svg
         url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
         license: GPL-2.0-or-later
+- actions/view-fullscreen.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-fullscreen.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
