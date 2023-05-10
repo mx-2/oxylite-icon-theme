@@ -1089,3 +1089,12 @@
       - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
         license: GPL-2.0-or-later
         attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
+- actions/view-conceal.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-delete.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: layer-visible-off.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
