@@ -1,0 +1,48 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient1843" gradientUnits="userSpaceOnUse" x1="6.628089" x2="32.687967" y1="27.905527" y2="32.476294">
+      <stop offset="0" stop-color="#00e300"/>
+      <stop offset="1" stop-color="#00a200" stop-opacity=".996078"/>
+    </linearGradient>
+    <filter id="filter1957" color-interpolation-filters="sRGB" height="1.926932" width="1.02781" x="-.013905" y="-.463466">
+      <feGaussianBlur stdDeviation=".18273846"/>
+    </filter>
+    <linearGradient id="linearGradient2016" gradientUnits="userSpaceOnUse" x1="15.418589" x2="17.1441" y1="19.240139" y2="27.478434">
+      <stop offset="0" stop-color="#c9c9c9"/>
+      <stop offset="1" stop-color="#7d7d7d"/>
+    </linearGradient>
+    <linearGradient id="linearGradient876" gradientUnits="userSpaceOnUse" x1="27.75194" x2="17.109465" y1="27.235444" y2="-.160788">
+      <stop offset="0" stop-color="#f95353"/>
+      <stop offset="1" stop-color="#a60000" stop-opacity=".996078"/>
+    </linearGradient>
+    <linearGradient id="linearGradient890" gradientUnits="userSpaceOnUse" x1="16.615267" x2="1.218245" y1="7.434942" y2="32.203487">
+      <stop offset="0" stop-color="#5a5adb"/>
+      <stop offset="1" stop-color="#0f0fa1"/>
+    </linearGradient>
+  </defs>
+  <path d="m1.2731633 33.041592h31.5405487l-.408424-.946288h-30.7908942z" filter="url(#filter1957)" opacity=".5" transform="matrix(7.54 0 0 7.54 -.507524 -.094258)"/>
+  <g transform="matrix(7.54 0 0 7.54 -.759424 -.849958)">
+    <path d="m11.419546 23.766098 7.819736 3.129739-.840592-9.041111z" fill="url(#linearGradient2016)"/>
+    <path d="m11.419546 23.766098 7.755622 2.996113" fill="#8a8a8a" stroke="#636363" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m11.419546 23.766098 6.900078-5.864831" fill="none" stroke="#dfdfde" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m18.319624 17.901267.855544 8.860944" fill="none" stroke="#6f6f6f" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+  </g>
+  <g transform="matrix(7.54 0 0 7.54 -.504804 6.417382)">
+    <path d="m17.109464-.1607884 15.720243 31.3425114-13.458329-5.328666z" fill="url(#linearGradient876)"/>
+    <path d="m19.371378 25.858962 13.458328 5.328666" fill="none" stroke="#b83935" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m17.109464-.16078842 2.261914 26.01384442" fill="none" stroke="#e17775" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m17.109464-.16078842 15.720242 31.34251042" style="fill:none;stroke:#601818;stroke-width:.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.968627"/>
+  </g>
+  <g transform="matrix(7.54 0 0 7.54 -.507524 -.450498)">
+    <path d="m1.3127385 32.439721 31.3752275.036571-21.441884-8.521728z" fill="url(#linearGradient1843)"/>
+    <path d="m1.3127385 32.439721 31.3752275.03657" style="fill:none;stroke:#015300;stroke-width:.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.894118"/>
+    <path d="m11.246082 23.954564 21.441884 8.521727" fill="none" stroke="#229721" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m1.3127385 32.439721 9.9333435-8.485157" fill="none" stroke="#8bf489" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+  </g>
+  <g transform="matrix(7.54 0 0 7.54 -.718914 -1.605668)">
+    <path d="m1.2182445 32.203486 17.0975885-14.541068-1.442604-16.76487306z" fill="url(#linearGradient890)"/>
+    <path d="m1.2182445 32.203485 17.0975885-14.541067" fill="none" stroke="#121252" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+    <path d="m1.2182445 32.203485 15.6549845-31.30594008" style="fill:none;stroke:#a8a8f1;stroke-width:.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.996078"/>
+    <path d="m16.873229.89754492 1.442604 16.76487308" fill="none" stroke="#282b75" stroke-linecap="round" stroke-linejoin="round" stroke-width=".4"/>
+  </g>
+</svg>
