@@ -1372,3 +1372,9 @@
       - file: application-x-blender.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/brasero.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: tools-media-optical-burn.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
