@@ -1392,3 +1392,8 @@
         license: LGPL-3.0-or-later
 - apps/chromium-browser.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- apps/com.github.jeromerobert.pdfarranger.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - url: https://github.com/pdfarranger/pdfarranger/blob/1.0/data/icons/scalable/apps/pdfarranger.svg
+        license: GPL-3.0-or-later
