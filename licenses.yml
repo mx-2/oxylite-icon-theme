@@ -1274,6 +1274,7 @@
         license: LGPL-3.0-or-later
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/view-wrapped.svg:
     license: LGPL-3.0-or-later
     based_on:
@@ -1283,4 +1284,12 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/window-new.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: view-right-new.svgz
+        url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
