@@ -1227,3 +1227,9 @@
       - file: edit-redo.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/view-reveal.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: layer-visible-on.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
