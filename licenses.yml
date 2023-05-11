@@ -1347,3 +1347,8 @@
       - file: accessories-text-editor.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/assistant.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/qt/qttools/blob/v5.1.0/src/assistant/assistant/images/assistant.png
+        license: GPL-3.0
