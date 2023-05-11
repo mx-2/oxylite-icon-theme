@@ -1352,3 +1352,8 @@
     based_on:
       - url: https://github.com/qt/qttools/blob/v5.1.0/src/assistant/assistant/images/assistant.png
         license: GPL-3.0
+- apps/audacity.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg
+        license: GPL-2.0-or-later
