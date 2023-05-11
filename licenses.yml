@@ -1378,3 +1378,15 @@
       - file: tools-media-optical-burn.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/ca.desrt.dconf-editor.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: application-exit.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: dialog-ok-apply.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: zoom-next.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
