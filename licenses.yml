@@ -1293,3 +1293,9 @@
       - file: view-right-new.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/window.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-right-new.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
