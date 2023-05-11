@@ -1357,3 +1357,12 @@
     based_on:
       - url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg
         license: GPL-2.0-or-later
+- apps/baobab.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: GPL-3.0
+      - file: kchart.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
