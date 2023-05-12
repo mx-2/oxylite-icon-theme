@@ -1413,3 +1413,9 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:OBS.svg
         license: GPL-2.0-or-later
+- apps/cutecom.svg:
+    license: public-domain
+    based_on:
+      - url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        file: utilities-terminal.svg
+        license: public-domain
