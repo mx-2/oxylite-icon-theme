@@ -1408,3 +1408,8 @@
       - file: accessories-text-editor.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/com.obsproject.Studio.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:OBS.svg
+        license: GPL-2.0-or-later
