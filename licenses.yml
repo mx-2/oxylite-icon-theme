@@ -1419,3 +1419,8 @@
       - url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
         file: utilities-terminal.svg
         license: public-domain
+- apps/darktable.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Darktable_icon.svg
+        license: GPL-2.0-or-later
