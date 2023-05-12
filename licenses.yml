@@ -1434,3 +1434,8 @@
         license: LGPL-3.0-or-later
 - apps/eclipse.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- apps/eog.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Eog_logo.svg
+        license: GPL-2.0-or-later
