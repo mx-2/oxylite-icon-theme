@@ -1397,3 +1397,8 @@
     based_on:
       - url: https://github.com/pdfarranger/pdfarranger/blob/1.0/data/icons/scalable/apps/pdfarranger.svg
         license: GPL-3.0-or-later
+- apps/com.github.tchx84.Flatseal.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/tchx84/Flatseal/blob/master/data/icons/com.github.tchx84.Flatseal.Source.svg
+        license: GPL-3.0
