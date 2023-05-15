@@ -1486,3 +1486,10 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/firefox.svg:
+    license: LGPL-2.1-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Deer_park_globe.svg
+        license: LGPL-2.1-or-later
+      - url: https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_3.5_logo_256.png
+        license: LGPL-2.1-or-later
