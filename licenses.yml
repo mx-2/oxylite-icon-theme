@@ -1507,3 +1507,5 @@
       - file: dialog-password.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/gcr-password.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
