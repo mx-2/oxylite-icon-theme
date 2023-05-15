@@ -1576,3 +1576,8 @@
     based_on:
       - url: https://raw.githubusercontent.com/GNOME/gparted/master/data/icons/hicolor_apps_scalable_gparted.svg
         license: GPL-2.0-or-later
+- apps/gvim.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Vimlogo.svg
+        license: GPL-2.0-or-later
