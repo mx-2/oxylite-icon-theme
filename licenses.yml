@@ -1565,3 +1565,9 @@
       - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
         license: GPL-2.0-or-later
         attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
+- apps/goa-panel.svg:
+    license: LGPL-2.0-or-later
+    based_on:
+      - url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        file: weather-overcast.svg
+        license: public-domain
