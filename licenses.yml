@@ -1559,3 +1559,9 @@
       - file: batteries.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/gnome-settings-default-applications.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
+        license: GPL-2.0-or-later
+        attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
