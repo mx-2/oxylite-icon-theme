@@ -1493,3 +1493,5 @@
         license: LGPL-2.1-or-later
       - url: https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_3.5_logo_256.png
         license: LGPL-2.1-or-later
+- apps/gcr-gnupg.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
