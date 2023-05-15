@@ -1553,3 +1553,9 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/gnome-nettool/-/tree/gnome-nettool-3-8-1/src
         license: GPL-2.0-or-later
+- apps/gnome-power-manager.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: batteries.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
