@@ -1548,3 +1548,8 @@
     based_on:
       - url: https://github.com/GNOME/gnome-mines/blob/gnome-3-12/data/icons/256x256/gnome-mines.png
         license: GPL-2.0-or-later
+- apps/gnome-nettool.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/gnome-nettool/-/tree/gnome-nettool-3-8-1/src
+        license: GPL-2.0-or-later
