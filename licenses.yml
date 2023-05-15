@@ -1515,3 +1515,8 @@
       - file: dialog-password.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/gimp.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/GNOME/gimp/blob/GIMP_2_8_16/desktop/src/gimp.svg
+        license: GPL-3.0
