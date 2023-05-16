@@ -1648,3 +1648,8 @@
     based_on:
       - url: https://github.com/qt/qttools/blob/v5.1.0/src/linguist/linguist/images/icons/linguist-128-32.png
         license: GPL-3.0
+- apps/mscore.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/musescore/MuseScore/blob/4.0_alpha/assets/musescore-icon-round.svg
+        license: GPL-3.0
