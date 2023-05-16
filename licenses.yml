@@ -1596,3 +1596,13 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/hexchat.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://github.com/hexchat/hexchat/blob/v2.16.1/data/icons/hexchat.svg
+        license: GPL-2.0-or-later
+- apps/io.github.wxmaxima_developers.wxMaxima.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://github.com/wxMaxima-developers/wxmaxima/blob/main/data/io.github.wxmaxima_developers.wxMaxima.svg
+        license: GPL-2.0-or-later
