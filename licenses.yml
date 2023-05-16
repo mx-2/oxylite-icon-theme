@@ -1643,3 +1643,8 @@
     based_on:
       url: https://github.com/sigrokproject/libsigrok/blob/master/contrib/libsigrok.svg
       license: GPL-3.0-or-later
+- apps/linguist.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/qt/qttools/blob/v5.1.0/src/linguist/linguist/images/icons/linguist-128-32.png
+        license: GPL-3.0
