@@ -1638,3 +1638,8 @@
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - apps/libreoffice-writer.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- apps/libsigrok.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      url: https://github.com/sigrokproject/libsigrok/blob/master/contrib/libsigrok.svg
+      license: GPL-3.0-or-later
