@@ -1653,3 +1653,9 @@
     based_on:
       - url: https://github.com/musescore/MuseScore/blob/4.0_alpha/assets/musescore-icon-round.svg
         license: GPL-3.0
+- apps/multimedia-volume-control.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: multimedia-volume-control.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
