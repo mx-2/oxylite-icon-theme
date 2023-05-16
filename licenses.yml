@@ -1626,3 +1626,5 @@
         license: public-domain
       - url: https://commons.wikimedia.org/wiki/File:Evince_logo_2011.svg
         license: GPL-2.0-or-later
+- apps/libreoffice-base.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
