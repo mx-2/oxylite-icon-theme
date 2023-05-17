@@ -1712,3 +1712,9 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/cheese/-/blob/gnome-3-26/data/icons/org.gnome.Cheese.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.Chess.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: tagua.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
