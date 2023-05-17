@@ -1758,3 +1758,12 @@
     based_on:
       - url: https://github.com/GNOME/gnome-maps/blob/gnome-3-30/data/icons/org.gnome.Maps.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.Nautilus.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: system-file-manager.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
