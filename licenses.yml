@@ -1724,3 +1724,8 @@
       - file: org.gnome.Devhelp.svg
         url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
         license: GPL-2.0-or-later
+- apps/org.gnome.Evince.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Evince_logo_2011.svg
+        license: GPL-2.0-or-later
