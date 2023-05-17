@@ -1702,3 +1702,8 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/gnome-boxes/-/blob/a2ee3b100240bf77e49c8341e4f8cdcdb82b7ca8/data/icons/gnome-boxes.svg
         license: LGPL-2.0-or-later
+- apps/org.gnome.Builder.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Builder_icon_hicolor.png
+        license: GPL-2.0-or-later
