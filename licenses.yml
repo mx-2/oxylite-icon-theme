@@ -1753,3 +1753,8 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/gnome-mahjongg/-/blob/gnome-3-20/data/icons/hicolor/scalable/gnome-mahjongg.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.Maps.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://github.com/GNOME/gnome-maps/blob/gnome-3-30/data/icons/org.gnome.Maps.svg
+        license: GPL-2.0-or-later
