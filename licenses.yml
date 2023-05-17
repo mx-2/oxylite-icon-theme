@@ -1707,3 +1707,8 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Builder_icon_hicolor.png
         license: GPL-2.0-or-later
+- apps/org.gnome.Cheese.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/cheese/-/blob/gnome-3-26/data/icons/org.gnome.Cheese.svg
+        license: GPL-2.0-or-later
