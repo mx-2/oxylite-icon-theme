@@ -1772,3 +1772,8 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/polari/-/blob/gnome-3-22/data/icons/polari.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.Rhythmbox.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/rhythmbox/-/blob/v3.4/data/icons/src/rhythmbox.svg
+        license: GPL-2.0-or-later
