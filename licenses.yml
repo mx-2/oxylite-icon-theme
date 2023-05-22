@@ -1814,3 +1814,9 @@
     based_on:
       - url: https://github.com/GNOME/gnome-sudoku/blob/gnome-3-20/data/icons/hicolor/scalable/gnome-sudoku.svg
         license: GPL-3.0-or-later
+- apps/org.gnome.Totem.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: video-x-generic.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
