@@ -1850,3 +1850,8 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/gitg/-/blob/gnome-3-32/data/icons/gitg-icon-source.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.meld.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/meld/-/blob/3.20.0/data/icons/hicolor/scalable/apps/org.gnome.meld.svg
+        license: GPL-2.0-or-later
