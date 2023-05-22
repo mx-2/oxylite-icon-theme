@@ -1825,3 +1825,8 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/gnome-tour/-/blob/43.0/data/icons/org.gnome.Tour.svg
         license: GPL-3.0-or-later
+- apps/org.gnome.dfeet.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/d-feet/-/blob/0.3.14/data/icons/hicolor/scalable/apps/org.gnome.dfeet.svg
+        license: GPL-2.0-or-later
