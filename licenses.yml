@@ -1845,3 +1845,8 @@
       - file: preferences-desktop-font.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/org.gnome.gitg.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/gitg/-/blob/gnome-3-32/data/icons/gitg-icon-source.svg
+        license: GPL-2.0-or-later
