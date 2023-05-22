@@ -1809,3 +1809,8 @@
       - file: help-about.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/org.gnome.Sudoku.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - url: https://github.com/GNOME/gnome-sudoku/blob/gnome-3-20/data/icons/hicolor/scalable/gnome-sudoku.svg
+        license: GPL-3.0-or-later
