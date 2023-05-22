@@ -1855,3 +1855,9 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/meld/-/blob/3.20.0/data/icons/hicolor/scalable/apps/org.gnome.meld.svg
         license: GPL-2.0-or-later
+- apps/org.gnome.tweaks.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: preferences-desktop.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
