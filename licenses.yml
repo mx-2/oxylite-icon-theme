@@ -1888,3 +1888,8 @@
         license: LGPL-3.0-or-later
 - apps/org.shotcut.Shotcut.svg:
     license: LGPL-2.0-or-later OR CC-BY-SA-4.0
+- apps/org.xfce.thunar.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Thunar.svg
+        license: GPL-2.0-or-later
