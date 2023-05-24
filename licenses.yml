@@ -2044,3 +2044,9 @@
       - file: preferences-network-sharing.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/preferences-system-time.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: clock.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
