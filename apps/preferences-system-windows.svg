@@ -1,0 +1,50 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient7912" gradientTransform="matrix(.121457 0 0 .1756605 75.745932 148.34634)" gradientUnits="userSpaceOnUse" x1="399.77466" x2="399.77466" y1="727.07941" y2="480.60214">
+      <stop offset="0" stop-color="#cbcbcd"/>
+      <stop offset=".5" stop-color="#e0e0e2"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="linearGradient12912" gradientTransform="matrix(1.185703 0 0 1.1857028 -1057.6439 826.3596)" gradientUnits="userSpaceOnUse" x1="1055.3002" x2="1055.3002" y1="-473.54486" y2="-483.66544">
+      <stop offset="0" stop-color="#2bc50f"/>
+      <stop offset="1" stop-color="#b9ffb4"/>
+    </linearGradient>
+    <filter id="filter4400" height="1.055767" width="1.047076" x="-.023538" y="-.027883">
+      <feGaussianBlur stdDeviation="1.177891"/>
+    </filter>
+    <linearGradient id="linearGradient2194" gradientTransform="matrix(1.185703 0 0 1.1857028 -1073.6439 826.3596)" gradientUnits="userSpaceOnUse" x1="1055.3002" x2="1055.3002" y1="-473.54486" y2="-483.66544">
+      <stop offset="0" stop-color="#e3ba0e"/>
+      <stop offset="1" stop-color="#fff3ca"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2213" gradientTransform="matrix(1.185703 0 0 1.1857028 -1089.6439 826.3596)" gradientUnits="userSpaceOnUse" x1="1055.3002" x2="1055.3002" y1="-473.54486" y2="-483.66544">
+      <stop offset="0" stop-color="#df0000"/>
+      <stop offset="1" stop-color="#ffc7c7"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2219" gradientTransform="matrix(1.185703 0 0 1.1857028 -1153.6439 826.3596)" gradientUnits="userSpaceOnUse" x1="1055.3002" x2="1055.3002" y1="-473.54486" y2="-481.76657">
+      <stop offset="0" stop-color="#656565"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="filter2275" color-interpolation-filters="sRGB" height="1.105069" width="1.088372" x="-.044186" y="-.052535">
+      <feGaussianBlur stdDeviation="2.160153"/>
+    </filter>
+    <filter id="filter2281" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
+      <feGaussianBlur stdDeviation=".23999996"/>
+    </filter>
+  </defs>
+  <use transform="translate(46.5957 -44.88773)" xlink:href="#g3377"/>
+  <g id="g3377" transform="matrix(1.3333333 0 0 1.3333333 -86.800581 -245.40699)">
+    <path d="m87.62845 247.5457c-1.303794 0-2.6666 1.0425-2.6666 2.6666v93.3517c0 1.62218 1.375348 2.6666 2.6666 2.6666h111.9972c1.478 0 2.6666-1.2163 2.6666-2.6666v-93.3517c0-1.49059-1.20393-2.6666-2.6666-2.6666zm1.96875 2.67187 108.0597.0336c1.09166 0 1.96875 1.02406 1.96875 2.29688l.026 88.71912c0 1.2728-.87709 2.29687-1.96875 2.29687l-108.0857.0416c-1.091657 0-1.96875-1.02407-1.96875-2.29687v-88.79428c0-1.27282.877093-2.29688 1.96875-2.29688z" fill="#fff" filter="url(#filter2275)"/>
+    <rect filter="url(#filter4400)" height="101.384" opacity=".4" rx="3.595974" transform="matrix(1 0 0 1.0035842 0 2.742375)" width="120.1011" x="83.54525" y="242.45522"/>
+    <rect fill="url(#linearGradient7912)" height="98.6642" rx="2.692931" width="117.3304" x="84.961853" y="247.5457"/>
+    <use transform="translate(16)" xlink:href="#use2287"/>
+    <ellipse cx="193.62868" cy="258.87613" fill="url(#linearGradient12912)" rx="6" ry="5.999999"/>
+    <use id="use2287" transform="translate(16)" xlink:href="#use2285"/>
+    <ellipse cx="177.62868" cy="258.87613" fill="url(#linearGradient2194)" rx="6" ry="5.999999"/>
+    <use id="use2285" transform="translate(64)" xlink:href="#ellipse2279"/>
+    <ellipse cx="161.62868" cy="258.87613" fill="url(#linearGradient2213)" rx="6" ry="5.999999"/>
+    <ellipse id="ellipse2279" cx="97.628677" cy="258.87613" filter="url(#filter2281)" rx="6" ry="5.999999"/>
+    <ellipse cx="97.628677" cy="258.87613" fill="url(#linearGradient2219)" rx="6" ry="5.999999"/>
+    <path d="m86.96185 276.8783h113.3304v67.3316h-113.3304z" fill="#fff" opacity=".6"/>
+    <path d="m87.62845 247.5457c-1.303794 0-2.6666 1.0425-2.6666 2.6666v93.3517c0 1.62218 1.375348 2.6666 2.6666 2.6666h111.9972c1.478 0 2.6666-1.2163 2.6666-2.6666v-93.3517c0-1.49059-1.20393-2.6666-2.6666-2.6666zm1.96875 2.67187 108.0597.0336c1.09166 0 1.96875 1.02406 1.96875 2.29688l.026 88.71912c0 1.2728-.87709 2.29687-1.96875 2.29687l-108.0857.0416c-1.091657 0-1.96875-1.02407-1.96875-2.29687v-88.79428c0-1.27282.877093-2.29688 1.96875-2.29688z" fill="#fff"/>
+  </g>
+</svg>
