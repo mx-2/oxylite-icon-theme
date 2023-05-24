@@ -2014,3 +2014,9 @@
       - file: network-server.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/preferences-system-network.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-workgroup.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
