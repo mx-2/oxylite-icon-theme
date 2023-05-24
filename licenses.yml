@@ -1987,3 +1987,18 @@
       - file: video-display.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/preferences-other.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: packages.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: preferences-other.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: preferences-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: applications-development.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
