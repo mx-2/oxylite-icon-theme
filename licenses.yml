@@ -1921,3 +1921,9 @@
       - file: video-display.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/preferences-desktop-keyboard-shortcuts.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: preferences-desktop-keyboard-shortcuts.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
