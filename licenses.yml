@@ -2056,3 +2056,12 @@
       - file: view-right-new.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/preferences-system.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: preferences-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
