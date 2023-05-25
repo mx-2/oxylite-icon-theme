@@ -2201,3 +2201,8 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:VirtualBox_Guest_Additions_Logo_2009-2010.png
         license: CC0-1.0
+- apps/vlc.svg:
+  license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:VLC_Icon.svg
+        license: GPL-2.0-or-later
