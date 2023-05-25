@@ -2078,3 +2078,8 @@
         license: GPL-3.0
 - apps/r.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- apps/remmina.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://github.com/FreeRDP/Remmina/blob/v1.2.0-rcgit.17/remmina/desktop/scalable/apps/remmina.svg
+        license: GPL-2.0-or-later
