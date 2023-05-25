@@ -2076,3 +2076,5 @@
     based_on:
       - url: https://github.com/qt/qttools/blob/v5.1.0/src/qdbus/qdbusviewer/images/qdbusviewer-128.png
         license: GPL-3.0
+- apps/r.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
