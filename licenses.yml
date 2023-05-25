@@ -2181,3 +2181,12 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Transmission_Icon.svg
         license: GPL-3.0
+- apps/utilities-system-monitor.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: utilities-system-monitor.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: utilities-terminal.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
