@@ -2170,3 +2170,9 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Mozilla_Thunderbird_logo.png
         license: MPL-2.0
+- apps/tor-browser.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-workgroup.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
