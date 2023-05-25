@@ -2132,3 +2132,12 @@
       - file: go-up.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/sysprof.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: clock.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
