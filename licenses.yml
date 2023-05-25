@@ -2083,3 +2083,9 @@
     based_on:
       - url: https://github.com/FreeRDP/Remmina/blob/v1.2.0-rcgit.17/remmina/desktop/scalable/apps/remmina.svg
         license: GPL-2.0-or-later
+- apps/retext.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: accessories-text-editor.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
