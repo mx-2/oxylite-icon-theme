@@ -2095,3 +2095,12 @@
       - file: application-rss+xml.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/rubyripper.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: application-x-ruby.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: media-optical.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
