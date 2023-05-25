@@ -2220,3 +2220,8 @@
     based_on:
       - url: https://gitlab.winehq.org/wine/wine/-/blob/wine-8.3/dlls/wineandroid.drv/wine.svg
         license: LGPL-2.1-or-later
+- apps/winetricks.svg:
+    license: LGPL-2.1-or-later
+    based_on:
+      - url: https://github.com/Winetricks/winetricks/blob/20220328/src/winetricks.svg
+        license: LGPL-2.1-or-later
