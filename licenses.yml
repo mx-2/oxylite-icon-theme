@@ -2071,3 +2071,8 @@
       - file: application-exit.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/qdbusviewer.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/qt/qttools/blob/v5.1.0/src/qdbus/qdbusviewer/images/qdbusviewer-128.png
+        license: GPL-3.0
