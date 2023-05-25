@@ -2150,3 +2150,12 @@
       - file: go-up.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/system-software-update.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
+        license: GPL-2.0-or-later
+        attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
+      - file: edit-redo.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
