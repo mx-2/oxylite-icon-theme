@@ -2230,3 +2230,8 @@
     based_on:
       - url: https://gitlab.com/wireshark/wireshark/-/blob/master/resources/icons/wsicon256.png
         license: GPL-2.0-or-later
+- apps/wxHexEditor.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Evince_logo_2011.svg
+        license: GPL-2.0-or-later
