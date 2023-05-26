@@ -2421,3 +2421,9 @@
       - file: audio-headphones.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- devices/audio-headset.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: audio-headset.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
