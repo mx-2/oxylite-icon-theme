@@ -2276,3 +2276,9 @@
       - file: audio-x-wav.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- categories/applications-office.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-office.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
