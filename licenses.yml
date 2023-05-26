@@ -2320,3 +2320,9 @@
       - file: help-hint.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- categories/emoji-people.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: face-smile.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
