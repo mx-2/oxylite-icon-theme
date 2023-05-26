@@ -2235,3 +2235,11 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Evince_logo_2011.svg
         license: GPL-2.0-or-later
+- apps/yumex.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:RPM_Logo.svg
+        license: public-domain
+      - file: go-up.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
