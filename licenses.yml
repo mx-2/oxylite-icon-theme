@@ -2335,3 +2335,15 @@
       - file: edit-undo.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- categories/emoji-symbols.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: application-exit.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: arrow-right.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
