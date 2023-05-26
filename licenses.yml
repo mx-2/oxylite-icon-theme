@@ -2225,3 +2225,8 @@
     based_on:
       - url: https://github.com/Winetricks/winetricks/blob/20220328/src/winetricks.svg
         license: LGPL-2.1-or-later
+- apps/wireshark.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://gitlab.com/wireshark/wireshark/-/blob/master/resources/icons/wsicon256.png
+        license: GPL-2.0-or-later
