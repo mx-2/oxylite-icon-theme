@@ -2249,3 +2249,9 @@
       - file: applications-accessories.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- categories/applications-development.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-development.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
