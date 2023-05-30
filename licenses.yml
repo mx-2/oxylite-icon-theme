@@ -2468,3 +2468,9 @@
       - file: camera-photo.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- devices/camera-video.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: camera-video.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
