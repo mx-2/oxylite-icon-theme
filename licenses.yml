@@ -2604,3 +2604,9 @@
       - file: media-flash.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- devices/media-floppy.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: media-floppy.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
