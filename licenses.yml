@@ -2551,3 +2551,9 @@
       - file: drive-removable-media.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- devices/drive-removable-media-usb-pendrive.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: drive-removable-media-usb-pendrive.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
