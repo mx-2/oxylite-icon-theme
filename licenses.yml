@@ -2598,3 +2598,9 @@
       - file: input-touchpad.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- devices/media-flash.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: media-flash.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
