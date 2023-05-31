@@ -2720,3 +2720,9 @@
       - file: thunderbolt-symbolic.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-40/Adwaita/scalable
         license: LGPL-3.0
+- devices/tv.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: video-television.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
