@@ -2753,3 +2753,11 @@
       - file: video-display.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emblems/emblem-default.svg:
+    license: LGPL-3.0
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/adwaita-icon-theme/-/blob/44.0/Adwaita/symbolic/emblems/emblem-default-symbolic.svg
+      - license: LGPL-3.0
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
