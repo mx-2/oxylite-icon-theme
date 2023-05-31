@@ -1,0 +1,16 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient1476" gradientTransform="matrix(2.5526639 0 0 6.8892264 -8.4042 -1864.7649)" gradientUnits="userSpaceOnUse" x1="14.566191" x2="53.988441" y1="252.09871" y2="252.09871">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radialGradient1484" cx="128.00000218989" cy="128.00017921152" gradientUnits="userSpaceOnUse" r="110.08756730516">
+      <stop offset="0" stop-color="#009cff"/>
+      <stop offset=".67562854" stop-color="#009cff"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128.00002" fill="url(#radialGradient1484)" r="110.08756" stroke="#000" stroke-width="4.54089"/>
+  <ellipse cx="79.094299" cy="-128" fill="url(#linearGradient1476)" rx="50.315884" ry="77.333771" transform="rotate(90)"/>
+  <path d="m89.645961 156.9918 13.361919 15.9551 23.87949-47.82521h-49.148087l48.491157-105.50993 46.19321-.208104-43.72374 79.258745h48.85705l-57.39018 82.565899 22.11998 2.30012-58.845503 50.5373c1.283986-25.59634 4.01554-51.54423 6.204704-77.07377z" fill="#ffe207" stroke="#ffa002" stroke-width="3.9899"/>
+</svg>
