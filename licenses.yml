@@ -2893,3 +2893,9 @@
       - file: face-laugh.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emotes/face-monkey.svg:
+    license: public-domain
+    based_on:
+      - url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        file: face-monkey.svg
+        license: public-domain
