@@ -2800,3 +2800,9 @@
       - file: emblem-link.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emblems/emblem-synchronizing.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-redo.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
