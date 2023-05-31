@@ -2761,3 +2761,9 @@
       - file: help-about.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emblems/emblem-important.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
