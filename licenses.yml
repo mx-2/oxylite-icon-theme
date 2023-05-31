@@ -2649,3 +2649,9 @@
       - file: media-tape.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- devices/modem.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: modem.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
