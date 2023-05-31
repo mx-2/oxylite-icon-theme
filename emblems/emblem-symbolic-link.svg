@@ -1,0 +1,19 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="radialGradient3139" cx="64" cy="35.686314" gradientTransform="matrix(4.2720882 0 0 2.892054 -145.41364 -52.36843)" gradientUnits="userSpaceOnUse" r="40">
+      <stop offset="0" stop-color="#646661"/>
+      <stop offset="1" stop-color="#111"/>
+    </radialGradient>
+    <clipPath id="clipPath3393">
+      <path d="m13.8125 8c-3.228333 0-5.8125 2.584167-5.8125 5.8125v100.375c0 3.22833 2.584167 5.8125 5.8125 5.8125h100.375c3.22833 0 5.8125-2.58417 5.8125-5.8125v-100.375c0-3.228333-2.58417-5.8125-5.8125-5.8125zm8 8h84.375c3.22833 0 5.8125 2.584167 5.8125 5.8125v84.375c0 3.22833-2.58417 5.8125-5.8125 5.8125h-84.375c-3.228334 0-5.8125-2.58417-5.8125-5.8125v-84.375c0-3.228334 2.584167-5.8125 5.8125-5.8125z"/>
+    </clipPath>
+    <filter id="filter3351" height="1.096" width="1.096" x="-.048" y="-.048">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+  <rect clip-path="url(#clipPath3393)" filter="url(#filter3351)" height="100" opacity=".7" rx="7.434851" transform="matrix(2 0 0 2 .000004 .000004)" width="100" x="14" y="14"/>
+  <rect fill="#eee" height="192" opacity=".7" rx="11.252747" width="192" x="32.000004" y="32.000004"/>
+  <rect fill="url(#radialGradient3139)" height="160" rx="11.252747" width="160" x="48.000004" y="48.000004"/>
+  <rect height="190" rx="11.252747" style="opacity:.7;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" width="190" x="33.000004" y="33.000004"/>
+  <path d="m88.062508 80.000004 22.625002 22.624996c-23.75236 15.44512-39.217664 40.78234 4 84-9.21941-36.87763 7.06857-54.58277 26.8125-53.1875l26.5 26.5v-13.3125-66.624996z" fill="#fff" fill-rule="evenodd"/>
+</svg>
