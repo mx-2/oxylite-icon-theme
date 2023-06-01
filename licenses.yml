@@ -2977,3 +2977,9 @@
       - file: face-uncertain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emotes/face-wink.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: face-wink.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
