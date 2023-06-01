@@ -3120,3 +3120,5 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Debian-OpenLogo.svg
         license: LGPL-3.0-or-later
+- mimetypes/application-vnd.flatpak.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
