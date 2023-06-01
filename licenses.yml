@@ -3115,3 +3115,8 @@
       - url: https://commons.wikimedia.org/wiki/File:Android_robot.svg
         license: CC-BY-3.0
         attribution: Google Inc.
+- mimetypes/application-vnd.debian.binary-package.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Debian-OpenLogo.svg
+        license: LGPL-3.0-or-later
