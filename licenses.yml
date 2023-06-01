@@ -2956,3 +2956,9 @@
       - file: faces2.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- emotes/face-surprise.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: face-surprise.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
