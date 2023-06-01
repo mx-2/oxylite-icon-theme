@@ -2941,3 +2941,9 @@
       - file: face-smile-big.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emotes/face-smile.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: face-smile.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
