@@ -3076,3 +3076,12 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/application-postscript.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: document-print.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
