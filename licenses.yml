@@ -3269,3 +3269,11 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Ubuntu-Logo_ohne_Schriftzug.svg
         license: public-domain
+- mimetypes/application-wireshark-doc.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - url: https://gitlab.com/wireshark/wireshark/-/blob/master/resources/icons/wsicon256.png
+        license: GPL-2.0-or-later
