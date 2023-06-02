@@ -3373,3 +3373,11 @@
       - file: applications-system.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- mimetypes/application-x-extension-fcstd.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - url: https://commons.wikimedia.org/wiki/File:FreeCAD-logo.svg
+        license: LGPL-2.1-or-later
