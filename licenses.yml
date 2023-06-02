@@ -3255,3 +3255,12 @@
       - file: org.gnome.Devhelp.svg
         url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
         license: GPL-2.0-or-later
+- mimetypes/application-vnd.recordare.musicxml+xml.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: audio-midi.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
