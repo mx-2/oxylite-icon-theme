@@ -3175,3 +3175,14 @@
         license: LGPL-3.0-or-later
       - url: https://github.com/LibreOffice/core/blob/8900a3469e1263280ffc052993ef34e3a4bcd4bc/sysui/desktop/icons/hicolor/scalable/apps/draw.svg
         license: LGPL-3.0-or-later
+- mimetypes/application-vnd.oasis.opendocument.presentation-template.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: org.gnome.Devhelp.svg
+        url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
+        license: GPL-2.0-or-later
+      - url: https://github.com/LibreOffice/core/blob/8900a3469e1263280ffc052993ef34e3a4bcd4bc/sysui/desktop/icons/hicolor/scalable/apps/impress.svg
+        license: LGPL-3.0-or-later
