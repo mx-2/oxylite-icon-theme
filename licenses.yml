@@ -3288,3 +3288,9 @@
     based_on:
       - url: https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/blob/master/img/archlogo.8a05bc7f6cd1.svg
         license: MIT
+- mimetypes/application-x-amgp.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
