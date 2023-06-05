@@ -3522,3 +3522,14 @@
       - file: application-x-php.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/application-x-pkcs12.svg:
+    license: GPL-3.0
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: dialog-password.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - url: https://gitlab.gnome.org/GNOME/seahorse/-/blob/gnome-3-30/data/icons/svg/seahorse.svg
+        license: GPL-2.0-or-later
