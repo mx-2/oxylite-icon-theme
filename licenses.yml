@@ -3476,3 +3476,12 @@
       - file: emblem-symbolic-link.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/application-x-msdownload.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: applications-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
