@@ -3634,3 +3634,9 @@
         license: LGPL-2.1-or-later
       - url: https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_3.5_logo_256.png
         license: LGPL-2.1-or-later
+- mimetypes/application-x-yaml.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
