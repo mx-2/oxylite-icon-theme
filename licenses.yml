@@ -3709,3 +3709,9 @@
       - file: preferences-desktop-wallpaper.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/image-x-adobe-dng.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: preferences-desktop-wallpaper.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
