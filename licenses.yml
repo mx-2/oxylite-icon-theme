@@ -3729,3 +3729,9 @@
         license: LGPL-3.0-or-later
       - url: https://github.com/GNOME/gimp/blob/GIMP_2_8_16/desktop/src/gimp.svg
         license: GPL-3.0
+- mimetypes/inode-blockdevice.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: hardware.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
