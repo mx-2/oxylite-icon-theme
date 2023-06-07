@@ -3996,3 +3996,9 @@
         license: LGPL-3.0-or-later
       - url: https://commons.wikimedia.org/wiki/File:Python_logo_and_wordmark.svg
         license: GPL-2.0-or-later
+- mimetypes/text-x-r.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
