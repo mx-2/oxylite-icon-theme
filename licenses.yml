@@ -4197,3 +4197,11 @@
       - file: folders.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- places/folder-git.svg:
+    license: GPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - url: https://gitlab.gnome.org/GNOME/gitg/-/blob/gnome-3-32/data/icons/gitg-icon-source.svg
+        license: GPL-2.0-or-later
