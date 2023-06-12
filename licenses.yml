@@ -4182,3 +4182,12 @@
         license: LGPL-3.0-or-later
       - url: https://github.com/LibreOffice/core/blob/8900a3469e1263280ffc052993ef34e3a4bcd4bc/sysui/desktop/icons/hicolor/scalable/apps/writer.svg
         license: LGPL-3.0-or-later
+- places/folder-download.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: go-up.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
