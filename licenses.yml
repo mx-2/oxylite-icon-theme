@@ -4292,3 +4292,12 @@
       - file: org.gnome.Devhelp.svg
         url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
         license: GPL-2.0-or-later
+- places/folder-videos.svg:
+    license: GPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
