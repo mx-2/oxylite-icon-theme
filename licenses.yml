@@ -4473,3 +4473,9 @@
       - file: audio-volume.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- status/auth-sim-locked.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: auth-sim-symbolic.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-40/Adwaita/scalable
+        license: LGPL-3.0
