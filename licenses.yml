@@ -4377,3 +4377,9 @@
         license: LGPL-3.0
 - status/airplane-mode.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- status/alarm-centered.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: kalarm.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
