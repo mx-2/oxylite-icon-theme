@@ -4401,3 +4401,9 @@
       - file: preferences-system-notifications-symbolic.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-40/Adwaita/scalable
         license: LGPL-3.0
+- status/appointment.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: clock.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
