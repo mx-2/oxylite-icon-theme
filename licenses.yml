@@ -4467,3 +4467,9 @@
       - file: audio-volume.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- status/audio-volume-overamplified.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: audio-volume.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
