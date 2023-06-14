@@ -4695,3 +4695,12 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/bluetooth-hardware-disabled.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: preferences-system-bluetooth.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: dialog-cancel.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
