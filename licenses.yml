@@ -4518,3 +4518,9 @@
       - file: quickopen.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/battery-level-10.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: battery-100.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
