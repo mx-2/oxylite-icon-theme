@@ -1,0 +1,22 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3192" gradientTransform="matrix(4.455939 0 0 3.989633 -73.502572 -34.633906)" gradientUnits="userSpaceOnUse" spreadMethod="pad" x1="28" x2="28" y1="66.467087" y2="16.733448">
+      <stop offset="0" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#e4e4e4"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3148" cx="64" cy="60.100002" gradientTransform="matrix(1.9253496 0 0 1.7548297 -59.222375 -41.365268)" gradientUnits="userSpaceOnUse" r="32">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#7c7c7c"/>
+    </radialGradient>
+    <radialGradient id="radialGradient3154" cx="64" cy="44.202766" gradientTransform="matrix(6.7489638 0 0 2.3515328 -303.93368 -35.16663)" gradientUnits="userSpaceOnUse" r="28" spreadMethod="reflect">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="filter3160" height="1.203998" width="1.393516" x="-.196758" y="-.101999">
+      <feGaussianBlur stdDeviation="1.7630909"/>
+    </filter>
+  </defs>
+  <path d="m89.999999 59.081819v32.604547c0 30.090914-52 30.090914-52 0v-59.686366c0-24.072728 36.248653-24.072728 36.248653 0v40.622729c-13.251346 18.054545-6.751346 18.054545-20.002694 0v-10.531819" style="opacity:.6;fill:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke:url(#radialGradient3148);filter:url(#filter3160)" transform="matrix(2 0 0 2 .000004 -.20001)"/>
+  <path d="m180 117.96363v65.20909c0 60.18183-103.999998 60.18183-103.999998 0v-119.37273c0-48.145456 72.497308-48.145456 72.497308 0v81.24546c-26.50269 36.10909-13.50269 36.10909-40.00539 0v-21.06364" fill="none" stroke="url(#linearGradient3192)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m180 117.96363v65.20909c0 60.18183-103.999998 60.18183-103.999998 0v-119.37273c0-48.145456 72.497308-48.145456 72.497308 0v81.24546c-26.50269 36.10909-13.50269 36.10909-40.00539 0v-21.06364" fill="none" stroke="url(#radialGradient3154)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+</svg>
