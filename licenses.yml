@@ -4814,3 +4814,9 @@
       - file: help-hint.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/globe.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-workgroup.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
