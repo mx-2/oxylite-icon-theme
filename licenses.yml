@@ -4871,3 +4871,12 @@
       - file: input-keyboard.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/keyboard-layout-filled.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: input-keyboard.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: preferences-desktop-locale.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
