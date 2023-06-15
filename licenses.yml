@@ -4838,3 +4838,12 @@
       - file: application-exit.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/keyboard-brightness.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: help-hint.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: input-keyboard.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
