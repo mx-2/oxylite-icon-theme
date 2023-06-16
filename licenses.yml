@@ -4901,3 +4901,12 @@
       - file: mail-attachement.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/mail-replied-rtl.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: go-down.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
