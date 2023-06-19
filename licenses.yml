@@ -5157,3 +5157,15 @@
       - file: go-down.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/network-transmit-rtl.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-server.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: video-display.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: go-down.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
