@@ -5085,3 +5085,15 @@
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/network-cellular-signal-weak.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- status/network-error.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-server.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: video-display.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: application-exit.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
