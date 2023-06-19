@@ -5340,3 +5340,9 @@
       - file: network-wireless-connected-75.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/network-wireless-signal-none.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-wireless-connected-00.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
