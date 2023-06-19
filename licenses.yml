@@ -5385,3 +5385,5 @@
       - file: preferences-system-notifications-symbolic.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-40/Adwaita/scalable
         license: LGPL-3.0
+- status/non-starred.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
