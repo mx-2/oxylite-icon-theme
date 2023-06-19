@@ -5316,3 +5316,12 @@
       - file: dialog-cancel.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/network-wireless-hotspot.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: network-wireless.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: edit-undo.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
