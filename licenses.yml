@@ -5585,3 +5585,9 @@
       - file: dialog-apply.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/stock_signature.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-certificate.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
