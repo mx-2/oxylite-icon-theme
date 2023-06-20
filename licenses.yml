@@ -5423,3 +5423,12 @@
       - file: input-tablet.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/orientation-portrait-right.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: arrow-up.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: input-tablet.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
