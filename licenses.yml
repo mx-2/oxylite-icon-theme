@@ -5512,3 +5512,9 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/screen-privacy.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: video-display.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
