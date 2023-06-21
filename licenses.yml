@@ -5615,3 +5615,12 @@
       - file: application-exit.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/thunderbolt-acquiring.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: thunderbolt-symbolic.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-40/Adwaita/scalable
+        license: LGPL-3.0
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
