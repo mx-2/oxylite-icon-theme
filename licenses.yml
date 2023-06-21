@@ -5779,3 +5779,5 @@
       - file: weather-storm.svg
         url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
         license: public-domain
+- status/weather-tornado.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
