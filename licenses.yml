@@ -5713,3 +5713,12 @@
       - file: weather-clear.svg
         url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
         license: public-domain
+- status/weather-few-clouds-night.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: weather-clear-night.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: weather-overcast.svg
+        url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        license: public-domain
