@@ -1,0 +1,25 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient914">
+      <stop offset="0" stop-color="#00960d"/>
+      <stop offset=".7570765" stop-color="#005d07"/>
+      <stop offset="1" stop-color="#002703"/>
+    </linearGradient>
+    <linearGradient id="linearGradient1476" gradientTransform="matrix(2.5526639 0 0 6.8892264 -10.39919 -1864.7649)" gradientUnits="userSpaceOnUse" x1="14.566191" x2="53.988441" y1="252.09871" y2="252.09871">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radialGradient1484" cx="8.819895" cy="288.44736" gradientTransform="matrix(17.162382 0 0 17.162356 -23.370405 -4822.4363)" gradientUnits="userSpaceOnUse" r="6.414469">
+      <stop offset="0" stop-color="#5cff69"/>
+      <stop offset=".7570765" stop-color="#00e113"/>
+      <stop offset="1" stop-color="#007109"/>
+    </radialGradient>
+    <radialGradient id="radialGradient940" cx="34.748455" cy="268.80463" gradientTransform="matrix(6.5326575 -6.5326575 6.5326575 6.5326575 -1826.0812 -1383.9195)" gradientUnits="userSpaceOnUse" r="7.394153" xlink:href="#linearGradient914"/>
+    <radialGradient id="radialGradient950" cx="34.748455" cy="268.80463" gradientTransform="matrix(6.5505209 -6.5505209 6.5505209 6.5505209 -1889.2258 -1422.1472)" gradientUnits="userSpaceOnUse" r="7.394153" xlink:href="#linearGradient914"/>
+  </defs>
+  <circle cx="128" cy="128" fill="url(#radialGradient1484)" r="110.08756" stroke="#005c08" stroke-width="4.54089"/>
+  <path d="m53.600562 65.43815-.000041 15.343191.000045 75.865859 69.543984.00001 5.70532-39.89916 15.9596-5.70542.00003-45.604487zm19.862226 19.862226 51.502672.000012v51.484602l-51.502672-.00001z" fill="url(#radialGradient950)" stroke="#3eff55" stroke-linecap="round" stroke-width="5.66213"/>
+  <path d="m111.447 99.609125-.00004 15.301355.00005 75.65897 90.96021-.00001-.00001-90.960323zm19.80806 19.808065 51.36222.00001v51.34421l-51.36222-.00002z" fill="url(#radialGradient940)" stroke="#3eff55" stroke-linecap="round" stroke-width="5.64667"/>
+  <ellipse cx="77.099327" cy="-128" fill="url(#linearGradient1476)" rx="50.315884" ry="77.333771" transform="rotate(90)"/>
+  <circle cx="128" cy="128" opacity=".3" r="110.08756"/>
+</svg>
