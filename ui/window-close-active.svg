@@ -1,0 +1,22 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient1476" gradientTransform="matrix(2.5526639 0 0 6.8892264 -10.39919 -1864.7649)" gradientUnits="userSpaceOnUse" x1="14.566191" x2="53.988441" y1="252.09871" y2="252.09871">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radialGradient1484" cx="8.819895" cy="288.44736" gradientTransform="matrix(17.162382 0 0 17.162356 -23.370405 -4822.4363)" gradientUnits="userSpaceOnUse" r="6.414469">
+      <stop offset="0" stop-color="#ff5c5c"/>
+      <stop offset=".7570765" stop-color="#e10200"/>
+      <stop offset="1" stop-color="#710000"/>
+    </radialGradient>
+    <radialGradient id="radialGradient2637" cx="30.343857" cy="258.62869" gradientTransform="matrix(12.072917 -12.072917 12.225751 12.225751 -3400.119 -2667.7407)" gradientUnits="userSpaceOnUse" r="4.245728">
+      <stop offset="0" stop-color="#ab0000"/>
+      <stop offset=".7570765" stop-color="#5a0100"/>
+      <stop offset="1" stop-color="#100000"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" fill="url(#radialGradient1484)" r="110.08756" stroke="#5c0000" stroke-width="4.54089"/>
+  <path d="m150.45989 127.90019 40.72714 40.72714-22.55965 22.55965-40.72714-40.72714-39.828754 39.82876-22.36001-22.36001 39.828764-39.82876-40.727268-40.727262 22.559646-22.559646 40.727262 40.727268 40.12823-40.128234 22.36001 22.36001z" fill="url(#radialGradient2637)" stroke="#ff7070" stroke-width="4.5174"/>
+  <ellipse cx="77.099327" cy="-128" fill="url(#linearGradient1476)" rx="50.315884" ry="77.333771" transform="rotate(90)"/>
+  <circle cx="128" cy="128" opacity=".3" r="110.08756"/>
+</svg>
