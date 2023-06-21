@@ -5746,3 +5746,12 @@
       - file: weather-overcast.svg
         url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
         license: public-domain
+- status/weather-severe-alert.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: weather-storm.svg
+        url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        license: public-domain
+      - file: dialog-warning.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
