@@ -1641,8 +1641,8 @@
 - apps/libsigrok.svg:
     license: GPL-3.0-or-later
     based_on:
-      url: https://github.com/sigrokproject/libsigrok/blob/master/contrib/libsigrok.svg
-      license: GPL-3.0-or-later
+      - url: https://github.com/sigrokproject/libsigrok/blob/master/contrib/libsigrok.svg
+        license: GPL-3.0-or-later
 - apps/linguist.svg:
     license: GPL-3.0
     based_on:
@@ -1664,6 +1664,7 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Icons_mumble.svg
         license: BSD-3-Clause
+        attribution: Copyright (C) 2005-2022 The Mumble Developers
 - apps/octave.svg:
     license: GPL-3.0-or-later
     based_on:
@@ -1898,6 +1899,7 @@
     based_on:
       - url: https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/blob/master/img/archlogo.8a05bc7f6cd1.svg
         license: MIT
+        attribution: Copyright (c) 2020 Levente Polyak
       - file: go-up.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
@@ -2207,7 +2209,7 @@
       - url: https://commons.wikimedia.org/wiki/File:VirtualBox_Guest_Additions_Logo_2009-2010.png
         license: CC0-1.0
 - apps/vlc.svg:
-  license: GPL-2.0-or-later
+    license: GPL-2.0-or-later
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:VLC_Icon.svg
         license: GPL-2.0-or-later
@@ -3293,6 +3295,7 @@
     based_on:
       - url: https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/blob/master/img/archlogo.8a05bc7f6cd1.svg
         license: MIT
+        attribution: Copyright (c) 2020 Levente Polyak
 - mimetypes/application-x-amgp.svg:
     license: LGPL-3.0-or-later
     based_on:
@@ -4047,6 +4050,7 @@
         license: LGPL-3.0-or-later
       - url: https://commons.wikimedia.org/wiki/File:Vala_Logo.svg
         license: MIT
+        attribution: Copyright © Daniel Foré & Samuel Hewitt
 - mimetypes/text-x-verilog.svg:
     license: LGPL-3.0-or-later
     based_on:
@@ -4761,7 +4765,7 @@
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
 - status/changes-allow.svg:
-  license: LGPL-2.0-or-later or CC-BY-SA-4.0
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/channel-insecure.svg:
     license: LGPL-3.0-or-later
     based_on:
@@ -5639,7 +5643,7 @@
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
 - status/timer.svg:
-    - license: LGPL-2.0-or-later or CC-BY-SA-4.0
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/touch-disabled.svg:
     license: LGPL-3.0
     based_on:

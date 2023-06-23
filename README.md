@@ -11,7 +11,8 @@ HiDPI monitors.
 
 The whole icon theme is license under the GPLv3.
 Individual icons may have a different compatible license, see `licenses.yml`
-for details.
+for details. Referenced licenses in this file are in SPDX format.
+See https://spdx.org/licenses/ for the full license texts.
 
 This icon theme is a standalone project not affiliated with any of the
 applications shown in some icons. All trademarks belong to their
