@@ -4,12 +4,20 @@ endif
 
 tar:
 	( \
+	    mkdir -p oxylite; \
+	\
+	    for d in actions apps categories devices emblems emotes \
+	        mimetypes places status ui; \
+	    do \
+	        mkdir -p "oxylite/$${d}"; \
+	        cp -ar "$${d}" "oxylite/"; \
+	    done; \
+	\
+	    cp index.theme licenses.yml README.md oxylite/; \
+	\
 	    tar -c --owner=0 --group=0 \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
-	    --transform 's,^,oxylite/,' \
-	    actions apps categories devices emblems emotes \
-	    mimetypes places status ui \
-	    index.theme licenses.yml README.md \
+	    oxylite \
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
 	)
 
@@ -32,4 +40,5 @@ install:
 	)
 
 clean:
+	rm -rf oxylite
 	rm -f oxylite-icon-theme.tar.gz
