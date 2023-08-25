@@ -21,6 +21,29 @@ tar:
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
 	)
 
+tar_png:
+	( \
+	    mkdir -p oxylite; \
+	\
+	    for d in actions apps categories devices emblems emotes \
+	        mimetypes places status ui; \
+	    do \
+	        mkdir -p "oxylite/$${d}"; \
+	        for svg in "$${d}/"*.svg; do \
+	            rsvg-convert --output="oxylite/$${svg/.svg/.png}" "$${svg}"; \
+	        done; \
+	    done; \
+	\
+	    cp index.theme licenses.yml README.md oxylite/; \
+	    sed -i 's/Name=Oxylite icons/Name=Oxylite PNG icons/' \
+	        oxylite/index.theme; \
+	\
+	    tar -c --owner=0 --group=0 \
+	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
+	    oxylite \
+	    | gzip -9 > oxylite-png-icon-theme.tar.gz \
+	)
+
 install:
 	( \
 	    prefix="$(PREFIX)/usr/share/icons/oxylite"; \
@@ -42,3 +65,4 @@ install:
 clean:
 	rm -rf oxylite
 	rm -f oxylite-icon-theme.tar.gz
+	rm -f oxylite-png-icon-theme.tar.gz

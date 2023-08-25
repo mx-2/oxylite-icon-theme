@@ -7,6 +7,11 @@ It is based on Oxygen, Adwaita and others.
 Currently, this icon theme is tested on Gnome and works best on
 HiDPI monitors.
 
+## PNG version
+
+The `oxylite-png` version of this theme uses pre-rendered PNGs for use on
+systems that so not support all required SVG features, like KDE Plasma 5.
+
 ## License
 
 The whole icon theme is license under the GPLv3.
