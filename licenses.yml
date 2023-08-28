@@ -2103,6 +2103,17 @@
     based_on:
       - url: https://github.com/qt/qttools/blob/v5.1.0/src/qdbus/qdbusviewer/images/qdbusviewer-128.png
         license: GPL-3.0
+- apps/qubes-manager.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - file: applications-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: preferences-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - url: https://commons.wikimedia.org/wiki/File:Qubes_OS_Logo.svg
+        license: GPL-2-or-later
 - apps/r.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - apps/remmina.svg:
