@@ -4883,6 +4883,8 @@
       - file: network-workgroup.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/hearing.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/image-loading.svg:
     license: LGPL-3.0-or-later
     based_on:
