@@ -30,7 +30,12 @@ tar_png:
 	    do \
 	        mkdir -p "oxylite/$${d}"; \
 	        for svg in "$${d}/"*.svg; do \
-	            rsvg-convert --output="oxylite/$${svg/.svg/.png}" "$${svg}"; \
+	            if [[ -h $${svg} ]]; then \
+	                ln -s "$$(readlink $${svg} | sed 's/\.svg/\.png/')" \
+	                    "oxylite/$${svg/.svg/.png}"; \
+	            elif [[ -f $${svg} ]]; then \
+	                rsvg-convert --output="oxylite/$${svg/.svg/.png}" "$${svg}"; \
+	            fi; \
 	        done; \
 	    done; \
 	\
