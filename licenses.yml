@@ -1226,6 +1226,12 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/view-piechart.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: office-chart-pie.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/view-pin.svg:
     license: LGPL-3.0-or-later
     based_on:
