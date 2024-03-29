@@ -1250,6 +1250,12 @@
       - file: layer-visible-on.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/view-ringschart.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: office-chart-ring.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/view-sidebar-start.svg:
     license: LGPL-3.0-or-later
     based_on:
