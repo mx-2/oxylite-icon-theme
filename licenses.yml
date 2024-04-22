@@ -3507,6 +3507,12 @@
       - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
         license: GPL-2.0-or-later
         attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
+- mimetypes/application-x-kicad-footprint.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - mimetypes/application-x-kicad-pcb.svg:
     license: LGPL-3.0-or-later
     based_on:
