@@ -1466,6 +1466,12 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:OBS.svg
         license: GPL-2.0-or-later
+- apps/cups.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: document-print.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/cutecom.svg:
     license: public-domain
     based_on:
