@@ -415,6 +415,12 @@
       - file: edit-undo.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/explore.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-find.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/find-location.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - actions/find-unsupported.svg:
