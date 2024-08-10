@@ -1071,6 +1071,12 @@
       - file: system-suspend.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/system-suspend-hibernate.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: system-suspend-hibernate.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/system-switch-user.svg:
     license: LGPL-3.0-or-later
     based_on:
