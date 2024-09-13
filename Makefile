@@ -16,6 +16,7 @@ tar:
 	    cp index.theme licenses.yml README.md oxylite/; \
 	\
 	    tar -c --owner=0 --group=0 \
+	    --mode='u=rwX,g=rX,o=rX' \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
 	    oxylite \
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
@@ -44,6 +45,7 @@ tar_png:
 	        oxylite/index.theme; \
 	\
 	    tar -c --owner=0 --group=0 \
+	    --mode='u=rwX,g=rX,o=rX' \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
 	    oxylite \
 	    | gzip -9 > oxylite-png-icon-theme.tar.gz \
