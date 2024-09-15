@@ -415,6 +415,12 @@
       - file: edit-select.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/edit-table-delete-row.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-table-delete-row.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/edit-undo-rtl.svg:
     license: LGPL-3.0-or-later
     based_on:
