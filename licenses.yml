@@ -978,6 +978,12 @@
       - file: edit-undo.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/office-chart-line.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: office-chart-line.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/open-menu.svg:
     license: LGPL-3.0-or-later
     based_on:

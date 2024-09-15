@@ -1,0 +1,24 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3768" gradientUnits="userSpaceOnUse" x1="51" x2="284.39654" y1="124" y2="61.461586">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3772" gradientUnits="userSpaceOnUse" x1="204" x2="68" y1="236" y2="36">
+      <stop offset="0" stop-color="#b900c4"/>
+      <stop offset="1" stop-color="#ae4300"/>
+    </linearGradient>
+  </defs>
+  <path d="m244 232-8-4-16-8v8h-200v8h200v8l16-8z" fill="#797979" opacity=".613861"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="188"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="148"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="108"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="68"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="188"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="148"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="108"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="68"/>
+  <path d="m24 12-4 8-8 16h8v192h8v-192h8l-8-16z" fill="#797979" opacity=".613861"/>
+  <path d="m52 204 64-16 48-96 48-16" fill="none" stroke="url(#linearGradient3768)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m52 180 64-48 48 72 48-32" fill="none" stroke="url(#linearGradient3772)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+</svg>
