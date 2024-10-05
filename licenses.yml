@@ -5036,6 +5036,15 @@
       - file: dialog-cancel.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/camera-on.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: camera-web.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/changes-allow.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/channel-insecure.svg:
