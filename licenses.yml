@@ -415,6 +415,12 @@
       - file: edit-select.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/edit-table-cell-merge.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-table-cell-merge.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/edit-table-cell-split.svg:
     license: LGPL-3.0-or-later
     based_on:
