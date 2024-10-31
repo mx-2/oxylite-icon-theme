@@ -1,0 +1,21 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient4" gradientUnits="userSpaceOnUse" x1="49.829986" x2="328.44766" y1="123.448532" y2="20.594382">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient11" gradientUnits="userSpaceOnUse" x1="41.440758" x2="222.95192" y1="165.948486" y2="100.218406">
+      <stop offset="0" stop-color="#84b5fb"/>
+      <stop offset="1" stop-color="#c3dbfd"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14" gradientUnits="userSpaceOnUse" x1="175.159272" x2="184" y1="46.660038" y2="124">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="m216 116v8h-144-8-48v8h48v8h8v-8h32v8h8v-8h32v8h8v-8h32v8h8v-8h24v8l16-8 8-4-8-4z" fill="#797979" stroke-width="2"/>
+  <path d="m128 16-4 8-8 16h8v24h-8v8h8v32h-8v8h8v32h-8v8h8v32h-8v8h8v48h8v-168-8-24h8l-8-16z" fill="#787878" stroke-width="2"/>
+  <path d="m53.675782 68.65625v59.46875h37.324218v59.46484h37v-59.58984h-35v-59.34375zm74.648438 0v55.34375h35.82812v-55.34375zm74.64844 0v59.34375h-37.32422v59.58984h37.46094v-59.58984h20.89062v-59.34375zm-186.97266 59.34375v59.58984h37.300782v-59.58984z" fill="url(#linearGradient11)" opacity=".75" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m53.675781 68.65625v31.101562c12.698102-.318051 25.851885-.951767 39.324219-1.894531v-29.207031zm74.648439 0v26.101562c11.89231-1.255234 23.86577-2.725155 35.82812-4.398437v-21.703125zm74.64844 0v15.5c7.06245-1.263351 14.03632-2.605152 20.94922-3.992188v-11.507812z" fill="url(#linearGradient14)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m16.351018 187.59035h36.951104c.12436-39.64442.248748-79.28884.373122-118.93327h36.950434c.12438 39.64443.248748 79.28885.373122 118.93327h36.9511c.12436-39.64442.24875-79.28884.37313-118.93327h36.95043c.1244 39.64443.24874 79.28885.37312 118.93327h36.95044c.1246-39.64442.2492-79.28884.37378-118.93327h20.95044" fill="none" stroke="url(#linearGradient4)" stroke-linejoin="round" stroke-width="8"/>
+</svg>
