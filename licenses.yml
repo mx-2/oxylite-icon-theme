@@ -3033,6 +3033,12 @@
       - file: help-about.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- emblems/emblem-money.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: kmymoney.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - emblems/emblem-music.svg:
     license: LGPL-3.0-or-later
     based_on:
