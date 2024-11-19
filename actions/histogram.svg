@@ -1,0 +1,21 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient12" gradientUnits="userSpaceOnUse" x1="-78.603631" x2="125.4594" y1="-31.13366" y2="-126.70699">
+      <stop offset="0" stop-color="#84b5fb"/>
+      <stop offset="1" stop-color="#c3dbfd"/>
+    </linearGradient>
+    <linearGradient id="linearGradient15" gradientUnits="userSpaceOnUse" x1="196.669091" x2="482.58423" y1="-5.20639" y2="-178.355473">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient16" gradientUnits="userSpaceOnUse" x1="361.40606" x2="383.01092" y1="-5.068209" y2="130.223923">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="m216 214v8h-144-8-48v8h48v8h8v-8h32v8h8v-8h32v8h8v-8h32v8h8v-8h24v8l16-8 8-4-8-4z" fill="#797979" stroke-width="2"/>
+  <path d="m28 16-4 8-8 16h8v24h-8v8h8v32h-8v8h8v32h-8v8h8v32h-8v8h8v48h8v-168-8-24h8l-8-16z" fill="#787878" stroke-width="2"/>
+  <path d="m47.999999 222.94758h159.999971l.00003-18h-16v-16-16h-16v16h-16v-16h-16v-64.00003h-16v-48.000007h-16v-16h-16v32h-16v32.000007h-16v48.00003h-16z" fill="url(#linearGradient12)" opacity=".75"/>
+  <path d="m96 44.947266v32h-16v32.000004h-16v27.28125a228.38303 89.367271 0 0 0 80-7.36133v-19.91992h-16v-48.000004h-16v-16z" fill="url(#linearGradient16)" opacity=".75"/>
+  <path d="m207.99997 222.94758.00003-18h-16v-16-16h-16v16h-16v-16h-16v-64.00003h-16v-48.000007h-16v-16h-16v32h-16v32.000007h-16v48.00003h-16l-.000001 66" fill="none" stroke="url(#linearGradient15)" stroke-linejoin="round" stroke-width="8"/>
+</svg>
