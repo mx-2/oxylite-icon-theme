@@ -167,6 +167,8 @@
       - file: system-shutdown.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+      - url: https://github.com/mmmaisel/empowerd/blob/v0.10.1/gui/public/power-switch.tile-auto.svg
+        license: LGPL-3.0
 - actions/chat-message-new.svg:
     license: LGPL-3.0-or-later
     based_on:
