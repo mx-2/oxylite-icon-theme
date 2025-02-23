@@ -956,6 +956,12 @@
         license: LGPL-3.0-or-later
 - actions/mark-location.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- actions/measure.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: measure.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/media-eject.svg:
     license: LGPL-3.0-or-later
     based_on:

@@ -1,0 +1,38 @@
+<svg enable-background="new 0 0 121 120" height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient2519" gradientTransform="matrix(.2591082 0 0 .13011922 -24.78028 59.160854)" gradientUnits="userSpaceOnUse" x1="399.77466" x2="399.77466" y1="1322.7012" y2="675.8042">
+      <stop offset="0" stop-color="#b4b4b6"/>
+      <stop offset=".5" stop-color="#9696a7"/>
+      <stop offset="1" stop-color="#eaecec"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3693" gradientTransform="matrix(.2591082 0 0 -.01301192 -25.1828 145.76443)" gradientUnits="userSpaceOnUse" x1="399.77466" x2="399.77466" y1="1322.7012" y2="-687.91089">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".42597079" stop-color="#fff"/>
+      <stop offset=".5892781" stop-color="#f1f1f1"/>
+      <stop offset=".80219781" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#dfdfdf"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3697" gradientTransform="matrix(.2591082 0 0 .02602384 -24.78028 -208.96509)" gradientUnits="userSpaceOnUse" x1="433.9509" x2="433.9509" y1="549.52295" y2="857.27325">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3668" gradientUnits="userSpaceOnUse" x1="109.5362" x2="109.5362" y1="178.720134" y2="114.666194">
+      <stop offset="0" stop-color="#989898"/>
+      <stop offset="1" stop-color="#f3f3f3"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3677" gradientTransform="matrix(.00000003 -.7661077 -.44988154 0 84.230719 89.32887)" gradientUnits="userSpaceOnUse" x1="12.131731" x2="12.131735" xlink:href="#linearGradient2399" y1="120.57536" y2="-48.434216"/>
+    <linearGradient id="linearGradient2399">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3634" gradientTransform="matrix(-.00000003 -.7661077 .44988154 0 171.83005 89.32935)" gradientUnits="userSpaceOnUse" x1="12.131731" x2="12.131735" xlink:href="#linearGradient2399" y1="120.57536" y2="-48.434216"/>
+  </defs>
+  <rect fill="url(#linearGradient2519)" height="64.000031" rx="8" width="207.994" x="24.03624" y="130.66437"/>
+  <path d="m32.0362 130.60189c-4.432 0-8 3.568-8 8l-.0008-2.60268h207.9948l.006 2.60268c0-4.432-3.568-8-8-8z" fill="url(#linearGradient3693)"/>
+  <rect fill="url(#linearGradient3697)" height="16.001181" opacity=".70297" rx="7.999993" ry="6.939333" transform="scale(1 -1)" width="218.66119" x="18.702194" y="-194.66559"/>
+  <path d="m26.8362 125.26439c-4.432 0-8 3.568-8 8l-.2 53.4c0 4.432 3.568 8 8 8h5.4c-4.432 0-8-3.568-8-8v-48c0-4.432 3.568-8 8-8h192c4.432 0 8 3.568 8 8v48c0 4.432-3.568 8-8 8h5.3276c4.432 0 8-3.568 8-8v-53.3304c0-4.432-3.568-8-8-8z" fill="url(#linearGradient3668)"/>
+  <path d="m67.762855 57.601134-14.95968 19.19904 46.95888.00048v6.39984l-46.95888-.00048 14.95968 19.199996h-6.330696l-19.268664-19.199996v-6.39984l19.268664-19.19904zm-31.9992 0v44.798876h-6.39984v-44.798876z" fill="url(#linearGradient3677)"/>
+  <path d="m221.36375 130.66718h5.3332v26.66599h-5.3332zm-16.00109 0h5.33319v15.99959h-5.33319zm-15.99964 0h5.3332v15.99959h-5.3332zm-15.99963 0h5.3316v16.00239h-5.3316zm-15.99951 0h5.3332v26.66599h-5.3332zm-16.00122 0h5.33319v15.99959h-5.33319zm-15.99964 0h5.3332v15.99959h-5.3332zm-15.99963 0h5.3316v16.00239h-5.3316zm-15.999575 0h5.3332v26.66599h-5.3332zm-16.00122 0h5.333198v15.99959h-5.333198zm-15.999573 0h5.333198v15.99959h-5.333198zm-15.999634 0h5.3316v16.00239h-5.3316zm-15.999573 0h5.3332v26.66599h-5.3332z" fill-opacity=".285714" stroke-width="2"/>
+  <path d="m188.29791 57.601614 14.95968 19.19904-46.95888.00048v6.39984l46.95888-.00048-14.95968 19.199996h6.3307l19.26866-19.199996v-6.39984l-19.26866-19.19904zm31.9992.000024v44.798852h6.39984v-44.798876z" fill="url(#linearGradient3634)"/>
+  <path d="m45.3686 146.70701v4h5.3125v-4zm16 0v4h5.3125v-4zm16 0v4h5.3125v-4zm32 0v4h5.3125v-4zm16 0v4h5.3125v-4zm16 0v4h5.3125v-4zm32 0v4h5.3125v-4zm16 0v4h5.3125v-4zm16 0v4h5.3125v-4zm-176 10.625v4h5.3125v-4zm64 0v4h5.3125v-4zm64 0v4h5.3125v-4zm64 0v4h5.3125v-4z" fill="#fff" fill-opacity=".456647"/>
+</svg>
