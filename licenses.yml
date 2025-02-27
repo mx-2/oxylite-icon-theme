@@ -802,6 +802,15 @@
       - file: preferences-desktop-font.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/insert-textbox.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: insert-text.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/list-remove-all.svg:
     license: LGPL-3.0-or-later
     based_on:
