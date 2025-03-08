@@ -2816,6 +2816,8 @@
       - file: hardware.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- devices/device_serial.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - devices/display-projector.svg:
     license: LGPL-3.0-or-later
     based_on:
