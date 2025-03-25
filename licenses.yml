@@ -2507,6 +2507,8 @@
       - file: utilities-terminal.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/virt-manager.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - apps/virtualbox.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
     based_on:
