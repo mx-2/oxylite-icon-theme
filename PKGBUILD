@@ -1,5 +1,5 @@
 pkgname=oxylite-icon-theme
-pkgver=1.1.4
+pkgver=1.1.5
 pkgrel=1
 pkgdesc="A skeuomorphic SVG icon theme"
 arch=(any)
