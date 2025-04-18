@@ -1536,6 +1536,15 @@
       - file: network-server.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- actions/vm_delete_wizard.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: edit-delete.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: network-server.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
 - actions/vm_new.svg:
     license: LGPL-3.0
     based_on:
