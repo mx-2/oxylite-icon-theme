@@ -5266,7 +5266,7 @@
       - file: dialog-cancel.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
-- actions/camera-on.svg:
+- status/camera-on.svg:
     license: LGPL-3.0
     based_on:
       - file: camera-web.svg
