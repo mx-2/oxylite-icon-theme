@@ -2,7 +2,10 @@ ifeq ($(PREFIX),)
     PREFIX := /
 endif
 
-tar:
+check:
+	./check_symlinks.sh
+
+tar: check
 	( \
 	    mkdir -p oxylite; \
 	\
@@ -22,7 +25,7 @@ tar:
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
 	)
 
-tar_png:
+tar_png: check
 	( \
 	    mkdir -p oxylite; \
 	\
