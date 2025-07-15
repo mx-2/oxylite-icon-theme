@@ -2,19 +2,22 @@
 
 DIRS="actions apps categories devices emblems emotes mimetypes places status ui"
 thisdir="$(dirname "$(readlink -f "$0")")"
-cd "$thisdir"
+cd "$thisdir" || exit 1
 
-failed=false
+check_symlinks() {
+    # shellcheck disable=SC2086
+    find $1 -type l -name "*.svg" -print0 | while IFS= read -r -d '' file
+    do
+        target="$(readlink "$file")"
+        # shellcheck disable=SC2001
+        prefix="$(echo "$file" | sed 's,/[^/]*$,,')"
+        if [[ -L "$prefix/$target" ]]; then
+            echo "Symlink \"$file\" points to other symlink \"$prefix/$target\"" \
+                | tee /dev/stderr
+        fi
+    done
+}
 
-find $DIRS -type l -name "*.svg" -print0 | while IFS= read -r -d '' file; do
-    target="$(readlink "$file")"
-    prefix="$(echo "$file" | sed 's,/[^/]*$,,')"
-    if [[ -L "$prefix/$target" ]]; then
-        echo "Symlink \"$file\" points to other symlink \"$prefix/$target\"" >&2
-        failed=true
-    fi
-done
-
-if $failed; then
+if [[ -n "$(check_symlinks "$DIRS")" ]]; then
     exit 1
 fi
