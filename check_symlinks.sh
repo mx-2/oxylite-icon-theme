@@ -11,7 +11,10 @@ check_symlinks() {
         target="$(readlink "$file")"
         # shellcheck disable=SC2001
         prefix="$(echo "$file" | sed 's,/[^/]*$,,')"
-        if [[ -L "$prefix/$target" ]]; then
+        if [[ ! -f "$prefix/$target" ]]; then
+            echo "Symlink \"$file\" is broken and points to \"$prefix/$target\"" \
+                | tee /dev/stderr
+        elif [[ -L "$prefix/$target" ]]; then
             echo "Symlink \"$file\" points to other symlink \"$prefix/$target\"" \
                 | tee /dev/stderr
         fi
