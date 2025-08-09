@@ -1700,6 +1700,21 @@
     based_on:
       - url: https://github.com/pdfarranger/pdfarranger/blob/1.0/data/icons/scalable/apps/pdfarranger.svg
         license: GPL-3.0-or-later
+- apps/com.github.maoschanz.DynamicWallpaperEditor.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: video-display.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: weather-clear.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: weather-clear-night.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/com.github.tchx84.Flatseal.svg:
     license: GPL-3.0
     based_on:
