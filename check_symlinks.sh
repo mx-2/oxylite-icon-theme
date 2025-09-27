@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIRS="actions apps categories devices emblems emotes mimetypes places status ui"
+DIRS="actions apps categories devices emblems emotes mimetypes places preferences status ui"
 thisdir="$(dirname "$(readlink -f "$0")")"
 cd "$thisdir" || exit 1
 

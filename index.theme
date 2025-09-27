@@ -2,7 +2,7 @@
 Name=Oxylite icons
 Comment=Skeuomorphic SVG icon theme
 Inherits=hicolor
-Directories=actions,apps,categories,devices,emblems,emotes,mimetypes,places,status,ui
+Directories=actions,apps,categories,devices,emblems,emotes,mimetypes,places,preferences,status,ui
 
 [actions]
 Context=Actions
@@ -55,6 +55,13 @@ Type=Scalable
 
 [places]
 Context=Places
+Size=256
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[preferences]
+Context=Applications
 Size=256
 MinSize=8
 MaxSize=512

@@ -10,7 +10,7 @@ tar: check
 	    mkdir -p oxylite; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
 	        mkdir -p "oxylite/$${d}"; \
 	        cp -ar "$${d}" "oxylite/"; \
@@ -30,7 +30,7 @@ tar_png: check
 	    mkdir -p oxylite; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
 	        mkdir -p "oxylite/$${d}"; \
 	        for svg in "$${d}/"*.svg; do \
@@ -60,7 +60,7 @@ install:
 	    mkdir -p "$${prefix}"; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
 	        install -d "$${prefix}/$${d}"; \
 	        cp -ar "$${d}" "$${prefix}"; \
