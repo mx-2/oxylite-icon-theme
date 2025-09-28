@@ -208,6 +208,12 @@
       - file: color-picker.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/configure.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: configure.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/contact-new.svg:
     license: LGPL-3.0-or-later
     based_on:
