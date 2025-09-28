@@ -27,30 +27,31 @@ tar: check
 
 tar_png: check
 	( \
-	    mkdir -p oxylite; \
+	    mkdir -p oxylite-png; \
 	\
 	    for d in actions apps categories devices emblems emotes \
 	        mimetypes places preferences status ui; \
 	    do \
-	        mkdir -p "oxylite/$${d}"; \
+	        mkdir -p "oxylite-png/$${d}"; \
 	        for svg in "$${d}/"*.svg; do \
 	            if [[ -h $${svg} ]]; then \
 	                ln -s "$$(readlink $${svg} | sed 's/\.svg/\.png/')" \
-	                    "oxylite/$${svg/.svg/.png}"; \
+	                    "oxylite-png/$${svg/.svg/.png}"; \
 	            elif [[ -f $${svg} ]]; then \
-	                rsvg-convert --output="oxylite/$${svg/.svg/.png}" "$${svg}"; \
+	                rsvg-convert \
+	                    --output="oxylite-png/$${svg/.svg/.png}" "$${svg}"; \
 	            fi; \
 	        done; \
 	    done; \
 	\
-	    cp index.theme licenses.yml README.md oxylite/; \
+	    cp index.theme licenses.yml README.md oxylite-png/; \
 	    sed -i 's/Name=Oxylite icons/Name=Oxylite PNG icons/' \
-	        oxylite/index.theme; \
+	        oxylite-png/index.theme; \
 	\
 	    tar -c --owner=0 --group=0 \
 	    --mode='u=rwX,g=rX,o=rX' \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
-	    oxylite \
+	    oxylite-png \
 	    | gzip -9 > oxylite-png-icon-theme.tar.gz \
 	)
 
