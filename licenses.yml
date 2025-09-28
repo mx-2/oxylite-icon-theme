@@ -6091,6 +6091,18 @@
         license: LGPL-3.0-or-later
 - status/process-working.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
+- status/redshift-status-day.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: weather-clear-night.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: weather-clear.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: weather-clear.svg
+        url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
+        license: public-domain
 - status/rotation-allowed.svg:
     license: LGPL-3.0-or-later
     based_on:
