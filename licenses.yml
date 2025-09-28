@@ -4726,6 +4726,15 @@
       - file: repository.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- places/bookmarks.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - file: org.gnome.Devhelp.svg
+        url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
+        license: GPL-2.0-or-later
+      - file: bookmark-new.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - places/folder-bookmarks.svg:
     license: LGPL-3.0
     based_on:
