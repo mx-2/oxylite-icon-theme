@@ -1929,6 +1929,11 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Vimlogo.svg
         license: GPL-2.0-or-later
+- apps/gwenview.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - url: https://commons.wikimedia.org/wiki/File:Gwenview.svg
+        license: LGPL-3.0-or-later
 - apps/help-browser.svg:
     license: LGPL-3.0-or-later
     based_on:
