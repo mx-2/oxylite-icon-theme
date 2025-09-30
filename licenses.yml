@@ -2055,6 +2055,12 @@
       - file: application-exit.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/okular.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: okular.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/openrgb.svg:
     license: LGPL-3.0-or-later
     based_on:
