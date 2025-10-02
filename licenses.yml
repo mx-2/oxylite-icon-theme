@@ -4999,6 +4999,15 @@
       - file: trash.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- preferences/device-notifier.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: drive-removable-media.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/airplane-mode.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - status/alarm-centered.svg:
