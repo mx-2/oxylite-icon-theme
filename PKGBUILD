@@ -11,5 +11,7 @@ sha256sums=("SKIP")
 
 package() {
     cd oxylite-icon-theme
+    make png
     PREFIX=${pkgdir} make install
+    PREFIX=${pkgdir} make install_png
 }

@@ -25,7 +25,7 @@ tar: check
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
 	)
 
-tar_png: check
+png: check
 	( \
 	    mkdir -p oxylite-png; \
 	\
@@ -47,7 +47,10 @@ tar_png: check
 	    cp index.theme licenses.yml README.md oxylite-png/; \
 	    sed -i 's/Name=Oxylite icons/Name=Oxylite PNG icons/' \
 	        oxylite-png/index.theme; \
-	\
+	)
+
+tar_png: png
+	( \
 	    tar -c --owner=0 --group=0 \
 	    --mode='u=rwX,g=rX,o=rX' \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
@@ -73,7 +76,17 @@ install:
 	    install -m 644 README.md "$${prefix}/README.md"; \
 	)
 
+install_png:
+	( \
+	    prefix="$(PREFIX)/usr/share/icons/"; \
+	    mkdir -p "$${prefix}"; \
+	\
+	    cp -ar oxylite-png "$${prefix}"; \
+	    chmod -R u=rwX,g=rX,o=rX "$${prefix}/oxylite-png"; \
+	)
+
 clean:
 	rm -rf oxylite
+	rm -rf oxylite-png
 	rm -f oxylite-icon-theme.tar.gz
 	rm -f oxylite-png-icon-theme.tar.gz
