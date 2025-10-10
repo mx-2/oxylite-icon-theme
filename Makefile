@@ -4,6 +4,7 @@ endif
 
 check:
 	./check_symlinks.sh
+	./check_svgs.sh
 
 tar: check
 	( \
