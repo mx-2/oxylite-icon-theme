@@ -5382,6 +5382,12 @@
       - file: preferences-system-bluetooth.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/brightness-low.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: help-hint.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/call-incoming.svg:
     license: LGPL-3.0-or-later
     based_on:
