@@ -375,6 +375,15 @@
       - file: go-up.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/donate.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: donate.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: emotes.svg
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/edit-clear-all.svg:
     license: LGPL-3.0-or-later
     based_on:
