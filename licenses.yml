@@ -5698,6 +5698,12 @@
       - file: media-playback-pause.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/media-playback-playing.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: media-playback-start.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/media-playlist-consecutive.svg:
     license: LGPL-3.0-or-later
     based_on:

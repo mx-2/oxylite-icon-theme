@@ -1,0 +1,35 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="AI_Sfocatura_4" height="1.2" width="1.2" x="-.1" y="-.1">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <linearGradient id="linearGradient3242" gradientUnits="userSpaceOnUse" x1="35.897401" x2="220.103601" y1="80.000001" y2="80.000001">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".80000001" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3246" cx="127.9999978" cy="127.9999978" gradientUnits="userSpaceOnUse" r="103.9999968">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".574" stop-color="#fff"/>
+      <stop offset=".6842" stop-color="#fbfbfb"/>
+      <stop offset=".8001" stop-color="#eee"/>
+      <stop offset=".9" stop-color="#ddd"/>
+      <stop offset="1" stop-color="#bbb"/>
+    </radialGradient>
+    <linearGradient id="linearGradient3251" gradientUnits="userSpaceOnUse" x1="128.0011062483" x2="128.0011062483" y1="255.9999996" y2=".00107096554">
+      <stop offset="0" stop-color="#555"/>
+      <stop offset=".2736" stop-color="#595959"/>
+      <stop offset=".562" stop-color="#666"/>
+      <stop offset=".8561" stop-color="#7b7b7b"/>
+      <stop offset="1" stop-color="#888"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3253" cx="53.1978" cy="59.186501" gradientTransform="matrix(.6667 0 0 .7574 20.7214 14.064)" gradientUnits="userSpaceOnUse" r="40.0294">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#666"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" fill="url(#linearGradient3251)" r="128" stroke-width="2.2069"/>
+  <path d="m10 58c0 26.467 21.533 48 48 48s48-21.533 48-48-21.533-48-48-48-48 21.533-48 48z" filter="url(#AI_Sfocatura_4)" opacity=".8" transform="matrix(2.1666666 0 0 2.1666666 2.333337 2.333337)"/>
+  <path d="m24 128c0 57.34516 46.654828 104 104 104 57.34517 0 104-46.65484 104-104 0-57.34517-46.65483-104-104-104-57.345172 0-104 46.65483-104 104z" fill="url(#radialGradient3246)" stroke-width="2"/>
+  <polygon fill="url(#radialGradient3253)" points="42 90 42 26 90 58" transform="matrix(2 0 0 2 12 12)"/>
+  <path d="m128 128c35.578 0 67.93401-10.26 92.10398-27.018-11.704-39.818-48.55198-68.982-92.10398-68.982-43.554002 0-80.402002 29.165998-92.102 68.982 24.166 16.758 56.521998 27.018 92.102 27.018z" fill="url(#linearGradient3242)" opacity=".5" stroke-width="2"/>
+</svg>
