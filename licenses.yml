@@ -2006,6 +2006,12 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:Evince_logo_2011.svg
         license: GPL-2.0-or-later
+- apps/kde.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: kde.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/kicad.svg:
     license: GPL-3.0-or-later
     based_on:
