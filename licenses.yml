@@ -1563,6 +1563,12 @@
       - file: edit-table-insert-column-right.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/view-sort.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-formatting.svg
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/view-sort-ascending-rtl.svg:
     license: LGPL-3.0-or-later
     based_on:
