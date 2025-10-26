@@ -1482,6 +1482,7 @@
         license: LGPL-3.0-or-later
       - file: zoom-select.svgz
         url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/view-list.svg:
     license: LGPL-3.0-or-later
     based_on:
@@ -1534,6 +1535,18 @@
     license: LGPL-3.0-or-later
     based_on:
       - file: knotes.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+- actions/view-process-tree.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-system.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: system-run.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: zoom-select.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
 - actions/view-refresh.svg:
