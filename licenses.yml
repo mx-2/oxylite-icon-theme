@@ -1253,6 +1253,12 @@
       - file: process-stop.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/quickopen.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: quickopen.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/screencast-recorded.svg:
     license: LGPL-3.0
     based_on:
