@@ -235,6 +235,12 @@
       - file: view-conversation-balloon.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/code-class.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: code-class.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/color-select.svg:
     license: LGPL-3.0-or-later
     based_on:
