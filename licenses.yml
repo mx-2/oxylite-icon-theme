@@ -1205,6 +1205,15 @@
       - file: network-wired.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/network-disconnect.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-delete.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: network-wired.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/notification-expand.svg:
     license: LGPL-3.0-or-later
     based_on:
