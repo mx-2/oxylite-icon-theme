@@ -6673,6 +6673,12 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/user.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: im-user.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/user-available.svg:
     license: LGPL-3.0-or-later
     based_on:
