@@ -1480,6 +1480,15 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/tag-edit.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-tagged.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: document-edit.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/tag-new.svg:
     license: LGPL-3.0-or-later
     based_on:
