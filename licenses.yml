@@ -5190,6 +5190,12 @@
       - url: http://tango.freedesktop.org/releases/tango-icon-theme-0.8.90.tar.gz
         file: weather-overcast.svg
         license: public-domain
+- places/folder-cyan.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
 - places/folder-development.svg:
     license: LGPL-3.0
     based_on:
