@@ -5160,6 +5160,12 @@
       - file: folders.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- places/folder-blue.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
 - places/folder-bookmarks.svg:
     license: LGPL-3.0
     based_on:
