@@ -1157,6 +1157,15 @@
       - file: go-down.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/media-mount.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: list-add-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: go-down.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/media-playback-pause.svg:
     license: LGPL-3.0-or-later
     based_on:
