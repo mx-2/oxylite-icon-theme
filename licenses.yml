@@ -5269,6 +5269,12 @@
       - file: help-about.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- places/folder-magenta.svg:
+    license: LGPL-3.0
+    based_on:
+      - file: folders.svg
+        url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
+        license: LGPL-3.0
 - places/folder-mail.svg:
     license: LGPL-3.0
     based_on:
