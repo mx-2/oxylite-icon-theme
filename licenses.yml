@@ -5402,7 +5402,7 @@
         url: https://gitlab.gnome.org/GNOME/devhelp/-/tree/gnome-3-14/data/icons
         license: GPL-2.0-or-later
 - places/folder-videos.svg:
-    license: GPL-3.0
+    license: LGPL-3.0
     based_on:
       - file: folders.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
@@ -5417,7 +5417,7 @@
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
 - places/folder.svg:
-    license: GPL-3.0
+    license: LGPL-3.0
     based_on:
       - file: folders.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
