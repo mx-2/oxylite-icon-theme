@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Oxylite icons
 Comment=Skeuomorphic SVG icon theme
-Inherits=hicolor
+Inherits=hicolor,breeze
 Directories=actions,apps,categories,devices,emblems,emotes,mimetypes,places,preferences,status,ui
 
 [actions]
