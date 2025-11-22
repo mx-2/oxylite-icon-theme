@@ -5584,6 +5584,12 @@
       - file: preferences-desktop-baloo.svg
         url: https://github.com/KDE/breeze-icons
         license: LGPL-3.0-or-later
+- preferences/preferences-desktop-filetype-association:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - preferences/preferences-desktop-theme-applications.svg:
     license: GPL-3.0-or-later
     based_on:
