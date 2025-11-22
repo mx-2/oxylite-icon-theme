@@ -1525,6 +1525,15 @@
       - file: list-add.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/text-speak.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: speaker.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: telepathy-kde.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/tools-check-spelling.svg:
     license: LGPL-3.0
     based_on:
