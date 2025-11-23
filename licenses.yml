@@ -2363,6 +2363,15 @@
       - file: kde.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/kdeconnect.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: kde.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: smartphone.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/kicad.svg:
     license: GPL-3.0-or-later
     based_on:
