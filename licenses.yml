@@ -1971,6 +1971,15 @@
       - file: office-chart-area-stacked.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/widget-alternatives.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: preferences-activities.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: text-formatting.svg
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/window-new.svg:
     license: LGPL-3.0-or-later
     based_on:
