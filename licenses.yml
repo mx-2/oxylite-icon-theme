@@ -1466,6 +1466,8 @@
       - file: system-switch-user.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/system-user-prompt.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - actions/tab-close.svg:
     license: LGPL-3.0-or-later
     based_on:
