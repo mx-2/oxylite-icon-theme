@@ -1584,6 +1584,12 @@
       - file: transform-move.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/transform-scale.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: transform-scale.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/translate.svg:
     license: LGPL-3.0-or-later
     based_on:

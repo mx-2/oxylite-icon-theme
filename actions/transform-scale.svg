@@ -1,0 +1,56 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient2217" gradientTransform="matrix(.12143152 0 0 .19517906 28.144101 -71.25531)" gradientUnits="userSpaceOnUse" x1="399.77466" x2="399.77466" y1="1164.6696" y2="549.06134">
+      <stop offset="0" stop-color="#b4b4b6"/>
+      <stop offset=".5" stop-color="#9c9ca1"/>
+      <stop offset="1" stop-color="#cdcdd1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2214" gradientTransform="matrix(1.083071 0 0 1.444445 26.696023 3.555562)" gradientUnits="userSpaceOnUse" x1="119.57646" x2="15.999996" y1="23.792561" y2="109.6508">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".42597079" stop-color="#fff"/>
+      <stop offset=".5892781" stop-color="#f1f1f1"/>
+      <stop offset=".80219781" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#dfdfdf"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2211" gradientTransform="matrix(0 -2.3962556 -3 0 196 302.70826)" gradientUnits="userSpaceOnUse" x1="102.31124" x2="74.330322" y1="-5.830213" y2="32">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2201" gradientTransform="matrix(.7991432 .7991432 .7991432 -.7991432 117.72682 162.6759)" gradientUnits="userSpaceOnUse" x1="113.15723" x2="39.268185" y1="25.786163" y2="25.786163">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3294" gradientUnits="userSpaceOnUse" x1="32.31918886574" x2="32.31918886574" y1="-40.73228903462" y2="-22.10053901402">
+      <stop offset="0" stop-color="#06f"/>
+      <stop offset="1" stop-color="#80b3ff"/>
+    </linearGradient>
+  </defs>
+  <rect fill="#618fd2" fill-opacity=".091954" height="184" rx=".307513" ry=".3741" width="184" x="36" y="35.999996"/>
+  <rect fill="url(#linearGradient2217)" height="120" opacity=".75" rx="4.761156" ry="5.538462" transform="matrix(0 1 1 0 0 0)" width="119.97484" x="36.025158" y="36"/>
+  <rect fill="url(#linearGradient2214)" fill-rule="evenodd" height="104" rx="2.399528" ry="2.888889" transform="matrix(0 1 1 0 0 0)" width="103.97484" x="44.025158" y="44"/>
+  <path d="m148 83.45085c-28.28425 25.60056-58.876848 49.59871-96 64.54915v-65.223093c35.540938-3.653018 67.64746-15.056728 96-30.77691z" fill="url(#linearGradient2211)" fill-rule="evenodd"/>
+  <path d="m204 204.19706-35.1623-.1966v-4.35294l18.84214-5.37752-120.24575-119.680671 6.39314-6.39314 120.24575 119.680671 5.21668-18.6813 4.51378-.1608z" fill="url(#linearGradient2201)" fill-rule="evenodd"/>
+  <g id="g2250" fill="#7193c6" transform="matrix(2 0 0 2 -12 19.999997)">
+    <rect id="rect3210" fill="#7193c6" height="4" rx=".077154" ry="1.351255" transform="rotate(90)" width="4" x="16" y="-116"/>
+    <use fill="#7193c6" height="128" transform="translate(0 8)" width="128" xlink:href="#rect3210"/>
+    <use id="use2240" fill="#7193c6" height="128" transform="translate(0 16)" width="128" xlink:href="#rect3210"/>
+    <use id="use2244" fill="#7193c6" height="128" transform="translate(0 24)" width="128" xlink:href="#rect3210"/>
+    <use id="use2248" fill="#7193c6" height="128" transform="translate(0 32)" width="128" xlink:href="#rect3210"/>
+    <use id="use3220" height="88" transform="translate(0 24)" width="88" xlink:href="#use2240"/>
+    <use height="88" transform="translate(0 24)" width="88" xlink:href="#use2244"/>
+    <use height="128" transform="translate(0 32)" width="128" xlink:href="#use2244"/>
+    <use height="128" transform="translate(0 32)" width="128" xlink:href="#use2248"/>
+    <use height="128" transform="translate(0 32)" width="128" xlink:href="#use3220"/>
+  </g>
+  <use height="128" transform="matrix(0 -1 1 0 -.00001 255.99999)" width="128" xlink:href="#g2250"/>
+  <use height="128" transform="translate(-176)" width="128" xlink:href="#g2250"/>
+  <use height="128" transform="matrix(0 -1 1 0 0 432)" width="128" xlink:href="#g2250"/>
+  <use height="128" transform="translate(192)" width="128" xlink:href="#rect3222"/>
+  <use height="128" transform="translate(.000016 192.00001)" width="128" xlink:href="#rect3222"/>
+  <use height="128" transform="translate(192 191.99999)" width="128" xlink:href="#rect3222"/>
+  <rect id="rect3222" fill="url(#linearGradient3294)" height="24" rx=".309585" ry=".373932" transform="scale(1 -1)" width="24" x="20" y="-43.999996"/>
+  <rect id="rect2225" fill="#bfd9ff" height="8" rx=".309585" ry=".373932" transform="scale(1 -1)" width="8" x="28" y="-35.999996"/>
+  <use fill="#a4c0e4" height="88" transform="translate(192)" width="88" xlink:href="#rect2225"/>
+  <use fill="#a4c0e4" height="88" transform="translate(.000016 192.00001)" width="88" xlink:href="#rect2225"/>
+  <use fill="#a4c0e4" height="88" transform="translate(192 192)" width="88" xlink:href="#rect2225"/>
+</svg>
