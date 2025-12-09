@@ -2564,6 +2564,11 @@
       - file: help-hint.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/org.fcitx.Fcitx5.svg:
+    license: LGPL-2.1-or-later
+    based_on:
+      - url: https://github.com/fcitx/fcitx5/blob/5.1.16/data/icon/scalable/apps/org.fcitx.Fcitx5.svg
+        license: LGPL-2.1-or-later
 - apps/org.freecadweb.FreeCAD.svg:
     license: LGPL-2.1-or-later
     based_on:
