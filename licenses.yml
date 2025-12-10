@@ -1355,6 +1355,15 @@
       - file: zoom-fit-width.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/panel-fit-width.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: transform-move.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: zoom-fit-width.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/power-saving.svg:
     license: LGPL-3.0-or-later
     based_on:
