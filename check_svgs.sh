@@ -23,6 +23,10 @@ check_svgs() {
         if grep -q '<svg$' "$file"; then
             echo "\"$file\" needs cleansvg" | tee /dev/stderr
         fi
+
+        if grep -q '<text' "$file"; then
+            echo "\"$file\" contains raw text" | tee /dev/stderr
+        fi
     done
 }
 
