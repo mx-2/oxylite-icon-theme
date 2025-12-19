@@ -4,13 +4,13 @@ Oxylite-icons is a icon theme which implements skeuomorphic icons with
 modern SVG technology.
 
 It is based on Oxygen, Adwaita and others.
-Currently, this icon theme is tested on Gnome and works best on
+Currently, this icon theme is tested on Gnome and KDE and works best on
 HiDPI monitors.
 
 ## PNG version
 
 The `oxylite-png` version of this theme uses pre-rendered PNGs for use on
-systems that so not support all required SVG features, like KDE Plasma 5.
+systems that so not support all required SVG features, like KDE Plasma.
 
 ## License
 
