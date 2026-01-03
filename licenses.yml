@@ -2852,6 +2852,12 @@
     based_on:
       - url: https://gitlab.com/inkscape/inkscape/-/blob/INKSCAPE_1_2/share/icons/application/scalable/org.inkscape.Inkscape.svg
         license: GPL-3.0-or-later
+- apps/org.kde.neochat.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: telepathy-kde.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/org.rncbc.qjackctl.svg:
     license: LGPL-3.0-or-later
     based_on:
