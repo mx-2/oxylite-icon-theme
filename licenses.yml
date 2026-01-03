@@ -2673,6 +2673,9 @@
     based_on:
       - url: https://gitlab.gnome.org/GNOME/fractal/-/blob/5-alpha1/data/icons/org.gnome.Fractal.svg
         license: GPL-3.0-or-later
+      - file: telepathy-kde.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/org.gnome.Glade.svg:
     license: GPL-3.0-or-later
     based_on:
