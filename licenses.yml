@@ -1641,6 +1641,12 @@
       - file: list-add.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/table.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: insert-table.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/tag.svg:
     license: LGPL-3.0-or-later
     based_on:
