@@ -1803,6 +1803,12 @@
       - url: https://commons.wikimedia.org/wiki/File:NewTux.svg
         license: GPL-2.0-or-later
         attribution: lewing@isc.tamu.edu Larry Ewing and The GIMP
+- actions/view-barcode-qr.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-barcode-qr.svg
+        url: https://github.com/KDE/breeze-icons
+        license: LGPL-3.0-or-later
 - actions/view-close.svg:
     license: LGPL-3.0-or-later
     based_on:
