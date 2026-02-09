@@ -1728,6 +1728,11 @@
       - file: tools-wizard.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/transform-browse.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: transform-browse.svg
+        url: https://github.com/KDE/breeze-icons
 - actions/transform-crop.svg:
     license: LGPL-3.0-or-later
     based_on:
