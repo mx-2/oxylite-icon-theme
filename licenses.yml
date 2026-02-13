@@ -2742,6 +2742,11 @@
     based_on:
       - url: https://github.com/qt/qttools/blob/v5.1.0/src/linguist/linguist/images/icons/linguist-128-32.png
         license: GPL-3.0
+- apps/lutris.svg:
+    license: GPL-3.0
+    based_on:
+      - url: https://github.com/lutris/lutris/blob/59573ce6ebf91c7c051a361826fc1090f1fcd5b1/share/icons/hicolor/scalable/apps/net.lutris.Lutris.svg
+        license: GPL-3.0
 - apps/mscore.svg:
     license: GPL-3.0
     based_on:
