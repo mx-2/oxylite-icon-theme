@@ -5241,6 +5241,11 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/text-x-devicetree-binary.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
 - mimetypes/text-x-generic-template.svg:
     license: GPL-3.0-or-later
     based_on:
