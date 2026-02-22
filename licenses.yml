@@ -1257,6 +1257,12 @@
       - file: list-add.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/mail-move.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-unread.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/mail-reply-all-rtl.svg:
     license: LGPL-3.0-or-later
     based_on:
