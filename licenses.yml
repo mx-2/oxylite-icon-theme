@@ -3529,6 +3529,15 @@
     based_on:
       - url: https://commons.wikimedia.org/wiki/File:VLC_Icon.svg
         license: GPL-2.0-or-later
+- apps/wayland.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: wayland.svg
+        url: https://github.com/KDE/breeze-icons
+        license: LGPL-3.0-or-later
+      - file: help-about.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/web-browser.svg:
     license: LGPL-3.0-or-later
     based_on:
