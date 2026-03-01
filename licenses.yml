@@ -6029,6 +6029,15 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- preferences/preferences-desktop-gestures-screenedges.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: input-tablet.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: video-display.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - preferences/preferences-desktop-icons.svg:
     license: LGPL-3.0
     based_on:
