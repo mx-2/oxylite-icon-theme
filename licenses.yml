@@ -6855,6 +6855,15 @@
       - file: network-wireless.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/network-bluetooth-activated-locked.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: preferences-system-bluetooth.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: network-wireless.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/network-cellular-2g.svg:
     license: LGPL-3.0-or-later
     based_on:
