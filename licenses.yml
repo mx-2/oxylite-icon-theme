@@ -1352,6 +1352,15 @@
       - file: measure.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/media-album-cover.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: mail-send.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: media-optical.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/media-eject.svg:
     license: LGPL-3.0-or-later
     based_on:
