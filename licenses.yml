@@ -1565,6 +1565,15 @@
       - file: zoom-fit-width.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/player-time.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: chronometer.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: arrow-right.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/power-saving.svg:
     license: LGPL-3.0-or-later
     based_on:
