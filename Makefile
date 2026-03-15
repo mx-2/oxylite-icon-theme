@@ -2,12 +2,16 @@ ifeq ($(PREFIX),)
     PREFIX := /
 endif
 
-tar:
+check:
+	./check_symlinks.sh
+	./check_svgs.sh
+
+tar: check
 	( \
 	    mkdir -p oxylite; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
 	        mkdir -p "oxylite/$${d}"; \
 	        cp -ar "$${d}" "oxylite/"; \
@@ -22,32 +26,36 @@ tar:
 	    | gzip -9 > oxylite-icon-theme.tar.gz \
 	)
 
-tar_png:
+png: check
 	( \
-	    mkdir -p oxylite; \
+	    mkdir -p oxylite-png; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
-	        mkdir -p "oxylite/$${d}"; \
+	        mkdir -p "oxylite-png/$${d}"; \
 	        for svg in "$${d}/"*.svg; do \
 	            if [[ -h $${svg} ]]; then \
 	                ln -s "$$(readlink $${svg} | sed 's/\.svg/\.png/')" \
-	                    "oxylite/$${svg/.svg/.png}"; \
+	                    "oxylite-png/$${svg/.svg/.png}"; \
 	            elif [[ -f $${svg} ]]; then \
-	                rsvg-convert --output="oxylite/$${svg/.svg/.png}" "$${svg}"; \
+	                rsvg-convert \
+	                    --output="oxylite-png/$${svg/.svg/.png}" "$${svg}"; \
 	            fi; \
 	        done; \
 	    done; \
 	\
-	    cp index.theme licenses.yml README.md oxylite/; \
+	    cp index.theme licenses.yml README.md oxylite-png/; \
 	    sed -i 's/Name=Oxylite icons/Name=Oxylite PNG icons/' \
-	        oxylite/index.theme; \
-	\
+	        oxylite-png/index.theme; \
+	)
+
+tar_png: png
+	( \
 	    tar -c --owner=0 --group=0 \
 	    --mode='u=rwX,g=rX,o=rX' \
 	    --mtime="$$(date +%Y-%m-%d\ %H:%M:%S)" \
-	    oxylite \
+	    oxylite-png \
 	    | gzip -9 > oxylite-png-icon-theme.tar.gz \
 	)
 
@@ -57,7 +65,7 @@ install:
 	    mkdir -p "$${prefix}"; \
 	\
 	    for d in actions apps categories devices emblems emotes \
-	        mimetypes places status ui; \
+	        mimetypes places preferences status ui; \
 	    do \
 	        install -d "$${prefix}/$${d}"; \
 	        cp -ar "$${d}" "$${prefix}"; \
@@ -69,7 +77,17 @@ install:
 	    install -m 644 README.md "$${prefix}/README.md"; \
 	)
 
+install_png:
+	( \
+	    prefix="$(PREFIX)/usr/share/icons/"; \
+	    mkdir -p "$${prefix}"; \
+	\
+	    cp -ar oxylite-png "$${prefix}"; \
+	    chmod -R u=rwX,g=rX,o=rX "$${prefix}/oxylite-png"; \
+	)
+
 clean:
 	rm -rf oxylite
+	rm -rf oxylite-png
 	rm -f oxylite-icon-theme.tar.gz
 	rm -f oxylite-png-icon-theme.tar.gz
