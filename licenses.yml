@@ -579,6 +579,12 @@
       - file: draw-path-use-for-highlight.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/draw-line.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: draw-line.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/edit-clear-all.svg:
     license: LGPL-3.0-or-later
     based_on:
