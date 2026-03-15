@@ -1,0 +1,23 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3533" gradientUnits="userSpaceOnUse" x1="151.851385" x2="151.851385" y1="132.872433" y2="-45.519467">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4" gradientUnits="userSpaceOnUse" x1="145.28841" x2="184.74007" y1="-81.63855" y2="-20.788607">
+      <stop offset="0" stop-color="#fc0000"/>
+      <stop offset=".49019271" stop-color="#fea1a1"/>
+      <stop offset=".51470834" stop-color="#ff4747"/>
+      <stop offset="1" stop-color="#c00"/>
+    </linearGradient>
+  </defs>
+  <path d="m13.882209 201.28614 157.771381-102.952361" fill="none" stroke="url(#linearGradient3533)" stroke-width="14"/>
+  <g fill="#fc0000" transform="matrix(8.4110984 0 0 8.4110984 -99.024871 -398.85808)">
+    <rect fill="#fc0000" height="3.795707" width="3.791853" x="11.779442" y="69.295349"/>
+  </g>
+  <g fill="url(#linearGradient4)" transform="translate(38.16675 129.3029)">
+    <g fill="url(#linearGradient4)">
+      <path d="m132.07832-30.050006-11.63064 55.359992 95.36892-110.021677-139.098264 43.031046z" fill="url(#linearGradient4)" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
