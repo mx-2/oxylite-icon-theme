@@ -3710,6 +3710,15 @@
       - file: xorg.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/yakuake.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: yakuake.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: utilities-terminal.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/yumex.svg:
     license: LGPL-3.0-or-later
     based_on:
