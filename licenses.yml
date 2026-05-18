@@ -3090,7 +3090,7 @@
 - apps/org.gnome.Mahjongg.svg:
     license: GPL-2.0-or-later
     based_on:
-      - url: https://gitlab.gnome.org/GNOME/gnome-mahjongg/-/blob/gnome-3-20/data/icons/hicolor/scalable/gnome-mahjongg.svg
+      - url: https://invent.kde.org/games/kmahjongg/-/blob/release/26.04/icons/sc-apps-kmahjongg.svgz
         license: GPL-2.0-or-later
 - apps/org.gnome.Maps.svg:
     license: GPL-2.0-or-later
