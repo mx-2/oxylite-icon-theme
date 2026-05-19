@@ -3050,6 +3050,11 @@
     based_on:
       - url: https://github.com/fcitx/fcitx5/blob/5.1.16/data/icon/scalable/apps/org.fcitx.Fcitx5.svg
         license: LGPL-2.1-or-later
+- apps/org.fontforge.FontForge.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - url: https://github.com/fontforge/fontforge/blob/20251009/desktop/2012/scalable/org.fontforge.FontForge.svg
+        license: GPL-3.0-or-later
 - apps/org.freecadweb.FreeCAD.svg:
     license: LGPL-2.1-or-later
     based_on:
