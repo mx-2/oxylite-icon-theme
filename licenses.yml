@@ -2952,6 +2952,11 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/kstars.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://github.com/KDE/kstars/blob/v17.08.3/kstars/icons/sc-apps-kstars.svgz
+        license: GPL-2.0-or-later
 - apps/ktorrent.svg:
     license: LGPL-3.0-or-later
     based_on:
