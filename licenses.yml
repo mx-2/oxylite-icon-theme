@@ -4213,6 +4213,15 @@
       - file: help-about.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- devices/input-touchscreen.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: input-tablet.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: input-touchscreen.svg
+        url: https://github.com/KDE/breeze-icons
+        license: LGPL-3.0-or-later
 - devices/media-flash.svg:
     license: LGPL-3.0
     based_on:
