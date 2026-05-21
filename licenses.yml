@@ -2671,6 +2671,8 @@
       - file: accessories-text-editor.svg
         url: https://github.com/GNOME/adwaita-icon-theme/tree/gnome-3-13/src/fullcolor
         license: LGPL-3.0
+- apps/com.google.Chrome.svg:
+    license: LGPL-2.0-or-later or CC-BY-SA-4.0
 - apps/com.obsproject.Studio.svg:
     license: GPL-2.0-or-later
     based_on:
