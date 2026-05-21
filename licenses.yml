@@ -2959,6 +2959,11 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/kpat.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://invent.kde.org/games/kpat/-/blob/release/26.04/icons/kpat.128.svg
+        license: GPL-2.0-or-later
 - apps/kstars.svg:
     license: GPL-2.0-or-later
     based_on:
