@@ -2797,6 +2797,11 @@
     based_on:
       - url: https://github.com/GNOME/gimp/blob/GIMP_2_8_16/desktop/src/gimp.svg
         license: GPL-3.0
+- apps/gnome-aisleriot.svg:
+    license: GPL-3.0-or-later
+    based_on:
+      - url: https://gitlab.gnome.org/GNOME/aisleriot/-/blob/3.22.34/data/icons/gnome-aisleriot.svg
+        license: GPL-3.0-or-later
 - apps/gnome-characters.svg:
     license: GPL-2.0-or-later
     based_on:
