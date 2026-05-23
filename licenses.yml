@@ -2956,6 +2956,12 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/kmail.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: kmail2.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - apps/kmymoney.svg:
     license: LGPL-3.0-or-later
     based_on:
