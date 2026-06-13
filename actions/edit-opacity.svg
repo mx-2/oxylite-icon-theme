@@ -1,0 +1,36 @@
+<svg enable-background="new 100.873 -104.477 263.043 263.042" height="256" viewBox="100.873 -104.477 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient34">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3624" cx="62.135254" cy="58.649723" gradientTransform="matrix(4.9210842 0 0 5.9886182 -76.899774 -356.81566)" gradientUnits="userSpaceOnUse" r="12.135255">
+      <stop offset="0" stop-color="#fff" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radialGradient3626" cx="65.847511" cy="80.890869" gradientTransform="matrix(4.6743843 -.01488226 .00961318 3.0193656 -242.47781 -161.45317)" gradientUnits="userSpaceOnUse" r="12.171672">
+      <stop offset="0"/>
+      <stop offset=".51585627" stop-color="#7f7f7f" stop-opacity=".498946"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linearGradient37" gradientUnits="userSpaceOnUse" x1="244.66629" x2="244.66629" xlink:href="#linearGradient34" y1="120.87794" y2="-42.9739"/>
+    <clipPath id="clipPath37">
+      <path d="m228.873-88.477002c-19.296 68.723997-72 117.314002-72 155.276012 0 37.944 32.22018 68.72399 72 68.72399 39.78018 0 72-30.77999 72-68.72399 0-37.98-52.704-86.552015-72-155.276012z"/>
+    </clipPath>
+    <filter id="filter38" color-interpolation-filters="sRGB" height="1.066473" width="1.103402" x="-.051701" y="-.033236">
+      <feGaussianBlur stdDeviation="3.1020558"/>
+    </filter>
+    <linearGradient id="linearGradient39" gradientUnits="userSpaceOnUse" x1="69.002548" x2="69.002548" y1="91.706207" y2="41.970226">
+      <stop offset="0" stop-color="#676767" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#676767" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="filter42" color-interpolation-filters="sRGB" height="1.177429" width="1.276" x="-.138" y="-.088714">
+      <feGaussianBlur stdDeviation="8.28"/>
+    </filter>
+    <linearGradient id="linearGradient42" gradientUnits="userSpaceOnUse" x1="246.66629" x2="246.66629" xlink:href="#linearGradient34" y1="122.87794" y2="-40.9739"/>
+  </defs>
+  <path d="m230.873-86.477002c-19.296 68.723997-72 117.314003-72 155.276012 0 37.944 32.22018 68.72399 72 68.72399 39.78018 0 72-30.77999 72-68.72399 0-37.98-52.704-86.552015-72-155.276012zm0 46.691997c8.46 16.68006 17.88394 36.8534275 28.224 52.438006 15.624 23.526009 25.776 45.490009 25.776 56.146009 0 27.755997-23.526 50.72399-54 50.72399s-54-22.967993-54-50.72399c0-10.656 10.152-32.62 25.776-56.146009 10.34006-15.5845785 19.764-35.757945 28.224-52.438006z" fill="url(#linearGradient42)" filter="url(#filter42)" opacity=".6" stroke-width="18"/>
+  <path d="m65.999999 41.903225c-4.279355 15.241211-15.967743 26.017083-15.967743 34.436077 0 8.415001 7.145605 15.241346 15.967743 15.241346 8.822218 0 15.967743-6.826345 15.967743-15.241346 0-8.422984-11.688388-19.194866-15.967743-34.436077z" fill="url(#radialGradient3626)" stroke="url(#linearGradient39)" transform="matrix(4.5090906 0 0 4.5090906 -68.726974 -277.42244)"/>
+  <path d="m228.873-88.477c-19.296 68.723997-72 117.313382-72 155.275391 0 37.943999 32.22018 68.724609 72 68.724609 39.78018 0 72-30.78061 72-68.724609 0-37.98-52.704-86.551394-72-155.275391z" fill="url(#radialGradient3624)" stroke-width="3.20001"/>
+  <path clip-path="url(#clipPath37)" d="m228.873-88.477002c-19.296 68.723997-72 117.314003-72 155.276012 0 37.944 32.22018 68.72399 72 68.72399 39.78018 0 72-30.77999 72-68.72399 0-37.98-52.704-86.552015-72-155.276012zm0 46.691997c8.46 16.68006 17.88394 36.8534275 28.224 52.438006 15.624 23.526009 25.776 45.490009 25.776 56.146009 0 27.755997-23.526 50.72399-54 50.72399s-54-22.967993-54-50.72399c0-10.656 10.152-32.62 25.776-56.146009 10.34006-15.5845785 19.764-35.757945 28.224-52.438006z" fill="url(#linearGradient37)" filter="url(#filter38)" stroke-width="18"/>
+</svg>
