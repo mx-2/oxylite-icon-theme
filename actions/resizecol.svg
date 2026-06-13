@@ -1,0 +1,25 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient2399">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4307" gradientTransform="matrix(-4.3629462 0 0 7.635157 472.79478 -17.304838)" gradientUnits="userSpaceOnUse" x1="95.126495" x2="74.966064" xlink:href="#linearGradient2399" y1="20.031025" y2="20.031025"/>
+    <linearGradient id="linearGradient4259" gradientTransform="matrix(4.378747 0 0 7.6628083 -218.41724 -17.831098)" gradientUnits="userSpaceOnUse" x1="95.126495" x2="74.966064" xlink:href="#linearGradient2399" y1="20.031025" y2="20.031025"/>
+    <linearGradient id="linearGradient16" gradientUnits="userSpaceOnUse" x1="7.706245" x2="2.234227" y1="26.94391" y2="-3.846773">
+      <stop offset="0" stop-color="#eeeeec"/>
+      <stop offset="1" stop-color="#d3d7cf"/>
+    </linearGradient>
+    <linearGradient id="linearGradient18" gradientUnits="userSpaceOnUse" x1="8.644195" x2=".067237" y1="-4.493637" y2="28.625752">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="m150.94545 135.66282h39.6235l.097 22.9884 40.5691-30.65122-40.31898-30.651218-.34712 23.265368h-39.6235z" fill="url(#linearGradient4259)" fill-rule="evenodd"/>
+  <path d="m104.76493 135.63513h-39.507571l-1.37835 22.9055-39.114057-30.54065 39.364057-30.540608 1.12835 23.181418h39.507581z" fill="url(#linearGradient4307)" fill-rule="evenodd"/>
+  <g transform="matrix(0 -6.718891 6.718891 0 95.909384 206.02819)">
+    <rect fill="url(#linearGradient16)" fill-rule="evenodd" height="33.184078" rx="2.381345" transform="matrix(0 1 1 0 0 0)" width="7.18018" x="1.186087" y="-4.978786"/>
+    <rect fill="none" height="31.273333" rx="1.488341" stroke="url(#linearGradient18)" stroke-width=".966771" transform="matrix(0 1 1 0 0 0)" width="5.204749" x="2.206146" y="-4.0881"/>
+    <rect fill="none" height="33.184078" rx="2.381345" stroke="#000100" stroke-width="1.19067" transform="rotate(90)" width="7.18018" x="1.186087" y="-28.205294"/>
+  </g>
+</svg>
