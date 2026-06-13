@@ -6433,6 +6433,12 @@
       - file: video-display.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- preferences/preferences-desktop-feedback.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: view-conversation-balloon.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - preferences/preferences-desktop-filetype-association:
     license: LGPL-3.0-or-later
     based_on:
