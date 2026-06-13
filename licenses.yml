@@ -4911,6 +4911,15 @@
       - file: emblem-link.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/aplication-vnd.iccprofile.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: edit-opacity.svg
+        url: https://github.com/KDE/breeze-icons
+        license: LGPL-3.0-or-later
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - mimetypes/application-vnd.ms-access.svg:
     license: LGPL-3.0-or-later
     based_on:
