@@ -651,6 +651,15 @@
       - file: edit-clear-locationbar.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/edit-comment.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: document-edit.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: view-conversation-balloon.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/edit-copy.svg:
     license: LGPL-3.0-or-later
     based_on:
