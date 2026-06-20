@@ -9,6 +9,7 @@ Contributed icons shall follow the following styleguide:
 - Icons shall have a reasonable amount of details, i.e. there are
   no barely visible details in them when viewed fullscreen.
 - One icon file shall fit all view sizes, from taskbar to fullscreen view.
+- The icon must not be created by AI.
 
 The following checklist helps you to create a good pull request:
 
