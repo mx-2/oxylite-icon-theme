@@ -3032,6 +3032,11 @@
       - file: smartphone.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- apps/kgeography.svg:
+    license: GPL-2.0-or-later
+    based_on:
+      - url: https://invent.kde.org/education/kgeography/-/blob/release/26.04/icons/sc-apps-kgeography.svgz
+        license: GPL-2.0-or-later
 - apps/kicad.svg:
     license: GPL-3.0-or-later
     based_on:
