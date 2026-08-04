@@ -27,6 +27,10 @@ check_svgs() {
         if grep -q '<text' "$file"; then
             echo "\"$file\" contains raw text" | tee /dev/stderr
         fi
+
+        if grep -q 'data:image' "$file"; then
+            echo "\"$file\" contains pixel image" | tee /dev/stderr
+        fi
     done
 }
 
