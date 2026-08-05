@@ -5,23 +5,11 @@
       <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="linearGradient4913" xlink:href="#lg1"/>
-    <linearGradient id="linearGradient6391" gradientUnits="userSpaceOnUse" x1="223.979051" x2="223.979051" xlink:href="#linearGradient4913" y1="7.422799" y2="-6.814803"/>
-    <filter id="filter5876" height="1.035335" width="1.018171" x="-.009085" y="-.017668">
-      <feGaussianBlur stdDeviation=".11909804"/>
-    </filter>
-    <filter id="filter5718" height="1.144494" width="1.074305" x="-.037152" y="-.072247">
-      <feGaussianBlur stdDeviation=".48701799"/>
-    </filter>
-    <filter id="filter5836" height="1.035335" width="1.018171" x="-.009085" y="-.017668">
-      <feGaussianBlur stdDeviation=".12356379"/>
-    </filter>
-    <radialGradient id="radialGradient6361" cx="64.101105" cy="61.470516" fx="63.292271" fy="74.81649" gradientTransform="matrix(1.1118445 .00000019 -.00000018 1.0614159 152.69879 -70.882696)" gradientUnits="userSpaceOnUse" r="22.686441" xlink:href="#linearGradient6666"/>
-    <linearGradient id="linearGradient6666">
+    <radialGradient id="radialGradient6363" cx="64.101105" cy="61.470516" fx="76.59713" fy="74.429352" gradientTransform="matrix(1.2934799 0 0 1.234813 141.05575 -81.541495)" gradientUnits="userSpaceOnUse" r="22.686441">
       <stop offset="0" stop-color="#9fc1f2"/>
       <stop offset=".5" stop-color="#587eb5"/>
       <stop offset="1" stop-color="#0c2a58"/>
-    </linearGradient>
-    <radialGradient id="radialGradient6363" cx="64.101105" cy="61.470516" fx="76.59713" fy="74.429352" gradientTransform="matrix(1.2934799 0 0 1.234813 141.05575 -81.541495)" gradientUnits="userSpaceOnUse" r="22.686441" xlink:href="#linearGradient6666"/>
+    </radialGradient>
     <linearGradient id="linearGradient6365" gradientUnits="userSpaceOnUse" x1="71.964134" x2="79.398361" xlink:href="#linearGradient4913" y1="26.784721" y2="63.955555"/>
     <clipPath id="clipPath5947">
       <ellipse cx="59.380135" cy="39.357106" rx="40.03013" ry="20.015065"/>
@@ -292,11 +280,6 @@
     <path d="m145.71479-183.21429 12.439-.415c.551-4.128 1.623-8.09 3.154-11.817l-.303-.189c-1.361 3.491-2.339 7.173-2.851 11.006l-12.439.415-.001 12z" fill="#fff"/>
   </g>
   <g transform="matrix(1.863806 0 0 1.863806 -289.43524 143.37356)">
-    <path d="m208.29585-8.7556656c-.005.158737-.0472.311795-.0472.471676 0 8.67652397 7.07743 15.70679 15.75395 15.70679 8.67653 0 15.7068-7.03026303 15.70679-15.70679 0-.159881-.0424-.312939-.0472-.471676-.22836 8.47771997-7.12708 15.282283-15.65962 15.282283s-15.47841-6.80456303-15.70679-15.282283z" fill="url(#linearGradient6391)" filter="url(#filter5876)" opacity=".873606"/>
-    <path d="m239.66226-8.9563466c.005-.158737.0472-.311795.0472-.471676 0-8.6765244-7.07744-15.7067904-15.75396-15.7067904s-15.70679 7.030263-15.70679 15.7067904c0 .159881.0424.312939.0472.471676.22837-8.4777204 7.12709-15.2822834 15.65962-15.2822834 8.53254 0 15.47842 6.804563 15.70679 15.2822834z" fill="#565656" filter="url(#filter5718)" opacity=".873606"/>
-    <path d="m240.25032-8.6497116c.005-.164689.0489-.323486.0489-.489362 0-9.0018634-7.34281-16.2957394-16.34467-16.2957394s-16.29574 7.293873-16.29574 16.2957394c0 .165876.044.324673.0489.489362.23693-8.7956044 7.39433-16.2703134 16.2468-16.2703134 8.85248 0 16.05881 7.474709 16.29574 16.2703134z" fill="#fff" filter="url(#filter5836)" opacity=".873606"/>
-    <path d="m208.29585-8.7556656c-.005.158737-.0472.311795-.0472.471676 0 8.67652397 7.07743 16.70679 15.75395 16.70679 8.67653 0 15.7068-8.03026303 15.70679-16.70679 0-.159881-.0424-.312939-.0472-.471676-.22836 8.47771997-7.12708 15.282283-15.65962 15.282283s-15.47841-6.80456303-15.70679-15.282283z" fill="url(#linearGradient6391)" filter="url(#filter5876)" opacity=".345725"/>
-    <circle cx="223.96924" cy="-9.069039" fill="url(#radialGradient6361)" r="31.747278"/>
     <circle cx="223.96924" cy="-9.069039" fill="url(#radialGradient6363)" r="31.747278"/>
     <circle clip-path="url(#clipPath5947)" cx="64.101105" cy="58.236969" fill="url(#linearGradient6365)" filter="url(#filter6019)" r="22.445498" transform="matrix(1.4144163 0 0 1.4144163 133.3036 -91.440356)"/>
     <g transform="matrix(.6879621 0 0 .6879621 45.031317 -56.774301)">
