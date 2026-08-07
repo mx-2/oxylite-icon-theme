@@ -5171,6 +5171,12 @@
         license: LGPL-3.0-or-later
       - url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg
         license: GPL-2.0-or-later
+- mimetypes/application-x-awk.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - mimetypes/application-x-bittorrent.svg:
     license: LGPL-3.0-or-later
     based_on:
