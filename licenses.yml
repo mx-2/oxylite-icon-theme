@@ -1814,6 +1814,15 @@
       - file: zoom-fit-width.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/run-build-clean.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: applications-development.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: edit-clear.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/screencast-recorded.svg:
     license: LGPL-3.0
     based_on:
