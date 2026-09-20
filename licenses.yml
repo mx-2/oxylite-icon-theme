@@ -5939,8 +5939,8 @@
     license: GPL-3.0
     based_on: 
       - file: text-x-generic.svg
-        url: https://commons.wikimedia.org/wiki/File:Blaise_pascal.jpg
-        license: GPL-3.0
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - mimetypes/text-x-patch.svg:
     license: LGPL-3.0-or-later
     based_on:
