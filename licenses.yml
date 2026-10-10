@@ -8398,6 +8398,12 @@
       - file: edit-delete.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- status/wallet-closed.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: wallet-closed.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - status/waveform-off.svg:
     license: LGPL-3.0-or-later
     based_on:

@@ -1,0 +1,47 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="XMLID_5_" gradientTransform="matrix(2.598215 0 0 2.5 8.940708 16.14173)" gradientUnits="userSpaceOnUse" x1="-39.000408" x2="57.486698" y1="-8.636937" y2="65.651802">
+      <stop offset="0" stop-color="#4d2600"/>
+      <stop offset="1" stop-color="#4d2600"/>
+    </linearGradient>
+    <linearGradient id="lg1">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#803f00"/>
+    </linearGradient>
+    <radialGradient id="radialGradient2066" cx="-7.430769" cy="-20.74012" gradientTransform="matrix(2.598215 0 0 2.5 8.940708 16.14173)" gradientUnits="userSpaceOnUse" r="116.4002" xlink:href="#lg1"/>
+    <linearGradient id="XMLID_7_" gradientUnits="userSpaceOnUse" x1="37.240557" x2="57.3313045" y1="130.343475" y2="159.044475">
+      <stop offset="0" stop-color="#b3925d"/>
+      <stop offset="1" stop-color="#4d2600"/>
+    </linearGradient>
+    <linearGradient id="XMLID_8_" gradientUnits="userSpaceOnUse" x1="21.495807" x2="57.215557" xlink:href="#lg1" y1="116.8339825" y2="152.0544825"/>
+    <filter id="filter145" color-interpolation-filters="sRGB" height="1.080263" width="1.050165" x="-.025082" y="-.040132">
+      <feGaussianBlur stdDeviation="1.698282"/>
+    </filter>
+    <filter id="filter146" color-interpolation-filters="sRGB" height="1.108145" width="1.050164" x="-.025082" y="-.054072">
+      <feGaussianBlur stdDeviation="1.698282"/>
+    </filter>
+    <filter id="filter147" color-interpolation-filters="sRGB" height="1.60492" width="1.60492" x="-.30246" y="-.30246">
+      <feGaussianBlur stdDeviation="1.2602495"/>
+    </filter>
+    <filter id="filter148" color-interpolation-filters="sRGB" height="1.100724" width="1.100724" x="-.050362" y="-.050362">
+      <feGaussianBlur stdDeviation=".41968476"/>
+    </filter>
+    <filter id="filter149" color-interpolation-filters="sRGB" height="1.118087" width="1.102685" x="-.051342" y="-.059044">
+      <feGaussianBlur stdDeviation="1.2300766"/>
+    </filter>
+    <filter id="filter150" color-interpolation-filters="sRGB" height="1.727484" width="1.081349" x="-.040675" y="-.363742">
+      <feGaussianBlur stdDeviation="3.6374196"/>
+    </filter>
+  </defs>
+  <ellipse cx="131.05682" cy="231.17799" fill-rule="evenodd" filter="url(#filter150)" opacity=".303599" rx="107.31255" ry="12.000004"/>
+  <path d="m38.830585 95.936744c-7.882985 0-14.300578 6.139996-14.300578 13.687496v112.6225c0 7.55 6.417593 13.69 14.300578 13.69h184.449885c7.88818 0 14.30318-6.14 14.30318-13.69v-112.6225c0-7.5475-6.415-13.687496-14.30318-13.687496z" fill="url(#XMLID_5_)" stroke-width="2.5"/>
+  <path d="m34.04089 100.93674c-2.37966 0-4.31445 1.875-4.31445 4.175v116.6475c0 2.3025 1.93479 4.1775 4.31445 4.1775h191.43366c2.37705 0 4.31445-1.875 4.31445-4.1775v-116.6475c0-2.3025-1.93478-4.175-4.31445-4.175z" fill="url(#radialGradient2066)" stroke-width="2.5"/>
+  <path d="m75.577016 173.2462c0 6.1375-5.3725 11.1125-12 11.1125h-35.999993c-6.6275 0-9.5-4.975-9.5-11.1125v-27.78c0-6.135 2.8725-11.1075 9.5-11.1075h35.999993c6.6275 0 12 4.975 12 11.1075z" filter="url(#filter149)" opacity=".303599" stroke-width="2.5"/>
+  <path d="m217.15505 217.54424c0 1.875-1.655 3.3925-3.695 3.3925h-155.11c-2.039993 0-3.694993-1.5175-3.694993-3.3925l154.374993-4.7325 4.43-93.4375c2.0375 0 3.695 1.52 3.695 3.3925z" fill="#4d2600" filter="url(#filter145)" opacity=".3" stroke-width="2.5"/>
+  <path d="m42.155057 111.82924c0-1.875 1.655-3.3925 3.695-3.3925h155.112493c2.0375 0 3.695 1.5175 3.695 3.3925l-150.587623 3.47005s-7.319205 2.01585-7.712387 7.84293c-.410143 6.07842-3.486308 62.5019-3.486308 60.6269l-.713675-71.93988z" fill="#fff" filter="url(#filter146)" opacity=".505682" stroke-width="2.5"/>
+  <path d="m74.65505 172.32424c0 6.1375-5.3725 11.1125-12 11.1125h-35.999993c-6.6275 0-9.5-4.975-9.5-11.1125v-27.78c0-6.135 2.8725-11.1075 9.5-11.1075h35.999993c6.6275 0 12 4.975 12 11.1075z" fill="url(#XMLID_7_)" stroke-width="2.5"/>
+  <path d="m69.65505 163.43674c0 5.5225-5.8775 10-13.124993 10h-36.25c.10235.80358.018-35.041 0-35h36.25c7.247493 0 13.124993 4.4775 13.124993 10z" fill="url(#XMLID_8_)" stroke-width="2.5"/>
+  <circle cx="50.116043" cy="156.39771" filter="url(#filter148)" opacity=".304048" r="10" stroke-width="2.5"/>
+  <circle cx="49.655064" cy="155.93674" fill="#fd0" r="10" stroke-width="2.5"/>
+  <circle cx="47.155064" cy="153.43674" fill="#fff" filter="url(#filter147)" r="5" stroke-width="2.5"/>
+</svg>
