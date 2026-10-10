@@ -1222,7 +1222,7 @@
       - file: preferences-desktop-wallpaper.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
-- status/input-keyboard-virtual-hide.svg:
+- actions/input-keyboard-virtual-hide.svg:
     license: LGPL-3.0-or-later
     based_on:
       - file: input-keyboard.svgz
@@ -1234,7 +1234,7 @@
       - file: go-up.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
-- status/input-keyboard-virtual-show.svg:
+- actions/input-keyboard-virtual-show.svg:
     license: LGPL-3.0-or-later
     based_on:
       - file: input-keyboard.svgz
