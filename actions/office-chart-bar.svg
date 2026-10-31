@@ -1,0 +1,44 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3220">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4451" gradientUnits="userSpaceOnUse" x1="179.750968" x2="220.931686" xlink:href="#linearGradient3220" y1="108.143044" y2="179.470138"/>
+    <linearGradient id="linearGradient4449" gradientUnits="userSpaceOnUse" x1="220" x2="220" xlink:href="#linearGradient3009" y1="196" y2="60"/>
+    <linearGradient id="linearGradient3009">
+      <stop offset="0" stop-color="#9fbde2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4447" gradientUnits="userSpaceOnUse" x1="195.607926" x2="195.607926" xlink:href="#linearGradient3003" y1="236.18064" y2="59.999566"/>
+    <linearGradient id="linearGradient3003" gradientUnits="userSpaceOnUse" x1="3.9985" x2="47.998501" y1="60" y2="60">
+      <stop offset="0" stop-color="#245795"/>
+      <stop offset="1" stop-color="#afd4ff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4439" gradientUnits="userSpaceOnUse" x1="106.817478" x2="148" xlink:href="#linearGradient3220" y1="92.669784" y2="164"/>
+    <linearGradient id="linearGradient4437" gradientUnits="userSpaceOnUse" x1="156" x2="156" xlink:href="#linearGradient3009" y1="180" y2="60"/>
+    <linearGradient id="linearGradient4435" gradientUnits="userSpaceOnUse" x1="131.607926" x2="131.607926" xlink:href="#linearGradient3003" y1="236.18064" y2="59.999566"/>
+    <linearGradient id="linearGradient4425" gradientUnits="userSpaceOnUse" x1="51.750968" x2="92.931686" xlink:href="#linearGradient3220" y1="108.143044" y2="179.470138"/>
+    <linearGradient id="linearGradient4427" gradientUnits="userSpaceOnUse" x1="92" x2="92" xlink:href="#linearGradient3009" y1="196" y2="60"/>
+    <linearGradient id="linearGradient4408" gradientUnits="userSpaceOnUse" x1="67.607926" x2="67.607926" xlink:href="#linearGradient3003" y1="236.18064" y2="59.999566"/>
+  </defs>
+  <path d="m244 232-8-4-16-8v8h-200v8h200v8l16-8z" fill="#797979" opacity=".613861"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="188"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="148"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="108"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" width="16" x="12" y="68"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="188"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="148"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="108"/>
+  <rect fill="#787878" fill-opacity=".615686" height="8" rx="0" transform="rotate(-90)" width="16" x="-244" y="68"/>
+  <path d="m24 12-4 8-8 16h8v192h8v-192h8l-8-16z" fill="#797979" opacity=".613861"/>
+  <rect fill="url(#linearGradient4408)" height="104" rx="9.545941" width="48" x="44" y="124"/>
+  <rect fill="url(#linearGradient4427)" height="88" rx="3.535534" width="32" x="52" y="132"/>
+  <path d="m55.5625 132c-1.95868 0-3.5625 1.60382-3.5625 3.5625v47.1875c12.50792-2.54824 23.63766-8.9847 32-18v-29.1875c0-1.95869-1.60382-3.5625-3.5625-3.5625z" fill="url(#linearGradient4425)"/>
+  <rect fill="url(#linearGradient4435)" height="136" rx="9.545941" width="48" x="108" y="92"/>
+  <rect fill="url(#linearGradient4437)" height="120" rx="3.535534" width="32" x="116" y="100"/>
+  <path d="m119.5625 100c-1.95868 0-3.5625 1.60382-3.5625 3.5625v55.1875c12.50792-2.54824 23.63766-8.9847 32-18v-37.1875c0-1.95869-1.60382-3.5625-3.5625-3.5625z" fill="url(#linearGradient4439)"/>
+  <rect fill="url(#linearGradient4447)" height="112" rx="9.545941" width="48" x="172" y="116"/>
+  <rect fill="url(#linearGradient4449)" height="96" rx="3.535534" width="32" x="180" y="124"/>
+  <path d="m183.5625 124c-1.95868 0-3.5625 1.60382-3.5625 3.5625v47.1875c12.50792-2.54824 23.63766-8.9847 32-18v-29.1875c0-1.95869-1.60382-3.5625-3.5625-3.5625z" fill="url(#linearGradient4451)"/>
+</svg>
