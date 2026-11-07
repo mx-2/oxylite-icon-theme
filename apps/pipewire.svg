@@ -1,0 +1,50 @@
+<svg height="256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="filter76" color-interpolation-filters="sRGB" height="1.20074" width="1.20074" x="-.10037" y="-.10037">
+      <feGaussianBlur stdDeviation=".9216"/>
+    </filter>
+    <radialGradient id="radialGradient43" cx="99.25927" cy="135.26718" gradientTransform="matrix(1.0675791 -.00045139 .00043777 1.0353581 -6.83142 -5.101057)" gradientUnits="userSpaceOnUse" r="16">
+      <stop offset="0" stop-color="#e5b000"/>
+      <stop offset=".5240382" stop-color="#f4c315"/>
+      <stop offset=".76846403" stop-color="#f7d330"/>
+      <stop offset="1" stop-color="#fbe348"/>
+    </radialGradient>
+    <linearGradient id="linearGradient45" gradientUnits="userSpaceOnUse" x1="-148.354344" x2="-124.78522" y1="-157.17314" y2="-126.96704">
+      <stop offset="0" stop-color="#fae749"/>
+      <stop offset="1" stop-color="#edc32e"/>
+    </linearGradient>
+    <radialGradient id="radialGradient59" cx="97.368385" cy="132.32986" gradientUnits="userSpaceOnUse" r="7.796246">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".60274017" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#808080"/>
+    </radialGradient>
+    <linearGradient id="linearGradient56" gradientUnits="userSpaceOnUse" x1="-141.405919" x2="-132.01552" y1="-147.09962" y2="-137.37561">
+      <stop offset="0" stop-color="#d3cda5"/>
+      <stop offset="1" stop-color="#bdaa5e"/>
+    </linearGradient>
+    <filter id="filter7" color-interpolation-filters="sRGB" height="1.083654" width="1.102938" x="-.051469" y="-.061848">
+      <feGaussianBlur stdDeviation=".96272357"/>
+    </filter>
+    <linearGradient id="linearGradient17" gradientUnits="userSpaceOnUse" x1="158.62206" x2="135.88553" y1="170.58725" y2="57.557701">
+      <stop offset="0" stop-color="#0047a4"/>
+      <stop offset="1" stop-color="#2280ff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient21" gradientUnits="userSpaceOnUse" x1="127.57328" x2="104.18599" y1="178.41042" y2="66.03611">
+      <stop offset="0" stop-color="#139aff"/>
+      <stop offset="1" stop-color="#91d4ff"/>
+    </linearGradient>
+  </defs>
+  <path d="m166.11137 77.476165v63.854925l44.19523-25.14417v-38.676705m-87.57628-.1299v65.506825l42.53112-24.55535m-80.204087-43.877955 11.799067 11.799079v35.157816l-48.01646 27.89975m0 31.09993v-102.944105" fill="none" filter="url(#filter7)" opacity=".4" stroke="#000" stroke-width="12"/>
+  <path d="m164.11137 77.476165v61.854925l44.19523-25.14417v-36.676705m-87.57628-.1299v63.506825l42.53112-24.55535m-78.204087-41.877955 9.799067 9.799079v35.157816l-48.01646 27.89975m0 31.09993v-100.944105" fill="none" stroke="url(#linearGradient17)" stroke-width="10"/>
+  <path d="m88.59375 70.917969-7.072266 7.072265 8.333985 8.333985v30.208981l-38.015625 22.08789v-61.154293h-10v100.943363h10v-28.22266l48.015625-27.89844v-40.107419zm27.13672 6.46289v72.166011l43.38086-25.04492v23.42578l54.19531-30.83203v-39.585934h-10v33.769534l-34.19531 19.45312v-53.255858h-10v35.478518l-33.38086 19.27148v-54.845701z" fill="none" stroke="url(#linearGradient21)" stroke-width="2"/>
+  <use transform="translate(31.622781 -.081659)" xlink:href="#g61"/>
+  <g id="g61" transform="matrix(.825 0 0 .825 -34.620744 -43.707374)">
+    <circle cx="98.139107" cy="133.10056" r="16" style="opacity:.4;fill-rule:evenodd;stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter76)"/>
+    <circle cx="97.368385" cy="132.32986" r="16" style="fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill:url(#radialGradient43);stroke:url(#linearGradient45)"/>
+    <circle cx="97.368385" cy="132.32986" r="6.796246" style="fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill:url(#radialGradient59);stroke:url(#linearGradient56)"/>
+  </g>
+  <use transform="translate(1.878449 125.02443)" xlink:href="#g61"/>
+  <use transform="translate(73.691736 -.064474)" xlink:href="#g61"/>
+  <use transform="translate(118.15281 -.134016)" xlink:href="#g61"/>
+  <use transform="translate(162.71154 -.134015)" xlink:href="#g61"/>
+</svg>
