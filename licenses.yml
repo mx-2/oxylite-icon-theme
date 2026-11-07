@@ -5101,6 +5101,12 @@
       - file: text-plain.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- mimetypes/application-typescript.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - mimetypes/application-vnd.android.package-archive.svg:
     license: LGPL-2.0-or-later or CC-BY-SA-4.0
     based_on:
