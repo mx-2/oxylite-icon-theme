@@ -1741,6 +1741,12 @@
       - file: office-chart-line.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/office-chart-line-percentage.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: office-chart-line-percentage.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/office-chart-polar.svg:
     license: LGPL-3.0-or-later
     based_on:
