@@ -1759,6 +1759,12 @@
       - file: office-chart-polar.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/office-chart-polar-stacked.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: office-chart-polar-stacked.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/office-chart-ring.svg:
     license: LGPL-3.0-or-later
     based_on:
