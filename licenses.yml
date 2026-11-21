@@ -979,6 +979,12 @@
       - file: go-next-view-page.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/format-text-color.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: format-text-color.svg
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/format-text-direction-rtl.svg:
     license: LGPL-3.0-or-later
     based_on:
