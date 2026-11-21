@@ -1,0 +1,63 @@
+<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient4090" gradientUnits="userSpaceOnUse" x1="-67.235519" x2="-67.235519" y1="51.12376" y2="67.684906">
+      <stop offset="0" stop-color="#06f"/>
+      <stop offset="1" stop-color="#80b3ff"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2330-7" gradientTransform="matrix(.16194264 0 0 .15614308 76.491714 -11.809446)" gradientUnits="userSpaceOnUse" x1="399.77466" x2="399.77466" y1="1164.6696" y2="549.06134">
+      <stop offset="0" stop-color="#b4b4b6"/>
+      <stop offset=".5" stop-color="#9c9ca1"/>
+      <stop offset="1" stop-color="#cdcdd1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2332-6" gradientTransform="matrix(1.3333183 0 0 .88888234 81.669334 65.106082)" gradientUnits="userSpaceOnUse" x1="38.458603" x2="94.75721" y1="86.232994" y2="27.74889">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".42597079" stop-color="#fff"/>
+      <stop offset=".5892781" stop-color="#f1f1f1"/>
+      <stop offset=".80219781" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#dfdfdf"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3320-9" gradientUnits="userSpaceOnUse" x1="159.658246" x2="206.251996" y1="111.394791" y2="111.394791">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(99.519254 90.755945)">
+    <use height="128" transform="translate(192 .259309)" width="128" xlink:href="#rect3222"/>
+    <use height="128" transform="matrix(.9999993 0 0 1.012156 -.00004 192.84547)" width="128" xlink:href="#rect3222"/>
+    <use height="128" transform="translate(191.9952 192)" width="128" xlink:href="#rect3222"/>
+    <rect id="rect3222" fill="url(#linearGradient4090)" height="21.3328" rx=".27518" ry=".332376" transform="scale(1 -1)" width="21.3328" x="-78.185654" y="48.219204"/>
+    <rect id="rect2225" fill="#bfd9ff" height="10.6668" rx=".412785" ry=".498582" transform="scale(1 -1)" width="10.6668" x="-72.852448" y="53.552402"/>
+    <use fill="#a4c0e4" height="88" transform="translate(192 .259309)" width="88" xlink:href="#rect2225"/>
+    <use fill="#a4c0e4" height="88" transform="matrix(.9999625 0 0 .9999623 -.002732 191.99797)" width="88" xlink:href="#rect2225"/>
+    <use fill="#a4c0e4" height="88" transform="translate(191.9952 192)" width="88" xlink:href="#rect2225"/>
+    <g id="g463" transform="translate(-99.51925 -90.755946)">
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="106.53995" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="117.20633" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="127.87275" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="138.53914" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="149.20555" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="159.87196" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="170.53296" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="181.20474" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="191.87114" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="202.53755" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="42.653847" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="53.320229" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="63.986637" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="74.653023" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="85.319435" y="-218.66199"/>
+      <rect fill="#7193c6" height="5.366509" rx="0" transform="rotate(90)" width="5.333216" x="95.985847" y="-218.66199"/>
+    </g>
+    <use transform="translate(-175.97891)" xlink:href="#g463"/>
+    <use transform="matrix(0 1 -1 0 65.667986 -167.340494)" xlink:href="#g463"/>
+    <use transform="matrix(0 -1 1 0 -8.71126 241.5741)" xlink:href="#g463"/>
+  </g>
+  <g id="g89" transform="translate(-84.316919 -31.346154)">
+    <rect fill="url(#linearGradient2330-7)" height="64" rx="5.333201" width="72" x="135" y="82"/>
+    <rect fill="url(#linearGradient2332-6)" fill-rule="evenodd" height="53.270004" rx="2.999966" ry="2.888867" stroke-width=".99999" width="61.32" x="140.33319" y="87.394791"/>
+    <path d="m180.5645 87.394794c-16.02535 14.142116-31.04763 29.438416-40.40625 48.000006h40.82813c2.2867-17.77047 9.42516-33.82375 19.26562-48.000006z" fill="url(#linearGradient3320-9)" fill-rule="evenodd"/>
+  </g>
+  <use transform="translate(.022814 90.533462)" xlink:href="#g89"/>
+  <use transform="translate(82.69971)" xlink:href="#g89"/>
+  <use transform="translate(82.645719 90.550097)" xlink:href="#g89"/>
+</svg>
