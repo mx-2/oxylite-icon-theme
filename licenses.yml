@@ -1270,6 +1270,15 @@
       - file: list-add.svgz
         url: https://github.com/KDE/oxygen-icons
         license: LGPL-3.0-or-later
+- actions/insert-page-break.svg:
+    license: LGPL-3.0-or-later
+    based_on:
+      - file: align-horizontal-center.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
+      - file: text-plain.svgz
+        url: https://github.com/KDE/oxygen-icons
+        license: LGPL-3.0-or-later
 - actions/insert-table.svg:
     license: LGPL-3.0-or-later
     based_on:
